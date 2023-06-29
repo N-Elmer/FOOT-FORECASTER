@@ -1,18 +1,14 @@
-name: CI -> Deploy to My website
-on:
-  push:
-    branches: [ master, Development ]
 jobs:
-  build:
+  deploy:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
-      # Here is the deployment action
-      - name: Upload from public_html via FTP
-        uses: airvzxf/ftp-deployment-action@latest
+      - name: Deploy to cPanel
+        id: deploy
+        uses: pinkasey/cpanel-deploy-action@v1.0.0
         with:
-          server: ${{ secrets.FTP_SERVER }}
-          user: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
-          local_dir: "./delta.terraexploration.space/"
-          delete: "false"
+          hostname: 'https://ftp.terraexploration.space'
+          repository_root: '/home/terraexp/delta.terraexploration.space'
+          branch: main
+          cpanel_token: '${{ secrets.CPANEL_TOKEN }}'
+      - name: echo deploy-duration
+        run: echo "Deployment took ${{ steps.deploy.outputs.duration }} milliseconds"
