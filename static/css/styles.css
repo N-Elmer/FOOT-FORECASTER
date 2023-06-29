@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #161C23;
+    color: white;
+}
+
+#team-wins-fig {
+    margin-top: 125px;
+    height: 520px;
+}
+
+#top-countries-table {
+    width: 95.8%;
+    margin-left: 78px;
+}
+
+#year-slider {
+    width: 95%;
+}
+
+#forecast-fig {
+    height: 700px;
+}
+
+#chart-heading {
+    margin-top: 180px;
+    margin-left: 80px;
+}
+
+#map-heading {
+    margin-top: 180px;
+}
+
+#back-to-top {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    padding: 10px 15px;
+    background-color: #0D1116;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    z-index: 101;
+}
+
+#back-to-top:hover {
+    background-color: #00008b;
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 100;
+    background-color: #00008b63;
+    margin-top: -10px;
+    margin-bottom: -150px; /* Adjust the top margin as needed */
+}
+
+#menu-heading {
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 10px;
+}
+
+
+#slider-header {
+    margin-left: 10px;
+}
+
+#year-slider-container h2 {
+    color: white;
+}
+
+#chart-heading, #team-wins-fig + h2, #top-countries-table + h2 {
+    color: white;
+}
+
+.table-row:nth-child(even) {
+    background-color: #0D1116;
+}
+
+.table-row:nth-child(odd) {
+    background-color: #161C23;
+}
+
+.table-cell {
+    font-size: 20px;
+}
+
+#table-heading {
+    margin-bottom: 80px;
+    text-align: center;
+}
+
+.chart-container {
+    display: flex;
+    width: 95%;
+}
+
+.chart {
+    width: 70%;
+}
+
+.map {
+    width: 30%;
+}
+
+/* Add additional styling for the slider */
+#year-slider::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 18px;
+    height: 18px;
+    background-color: #0D1116;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#year-slider::-moz-range-thumb {
+    width: 18px;
+    height: 18px;
+    background-color: #0D1116;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#year-slider::-ms-thumb {
+    width: 18px;
+    height: 18px;
+    background-color: #0D1116;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+#year-slider::-webkit-slider-runnable-track {
+    height: 5px;
+    background-color: #00008b;
+    border-radius: 10px;
+}
+
+#year-slider::-moz-range-track {
+    height: 5px;
+    background-color: #00008b;
+    border-radius: 10px;
+}
+
+#year-slider::-ms-track {
+    height: 5px;
+    background-color: #00008b;
+    border-radius: 10px;
+}
+
+#year-slider::-webkit-slider-thumb:hover {
+    background-color: #0000ff;
+}
+
+#year-slider::-moz-range-thumb:hover {
+    background-color: #0000ff;
+}
+
+#year-slider::-ms-thumb:hover {
+    background-color: #0000ff;
+}
+
+#year-label {
+    color: white;
+    margin-left: 10px;
+    font-size: 18px;
+}
+
+#year-slider-container h2 {
+    color: white;
+    margin-bottom: 10px;
+}
+
+/* Update the year slider container styling */
+#year-slider-container {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #00008b63;
+    margin: 20px 0;
+}
