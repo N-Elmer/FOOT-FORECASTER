@@ -87,9 +87,7 @@ The project folder structure consists of the following files and folders:
 
 ## Usage
 
-To use
-
- the FOOT-FORECASTER web application, follow these steps:
+To use the FOOT-FORECASTER web application, follow these steps:
 
 1. Clone or download this project repository.
 
