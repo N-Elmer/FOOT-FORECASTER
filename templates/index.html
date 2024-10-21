@@ -6,31 +6,78 @@
         <link rel="stylesheet" href="static/css/styles.css">
         <link rel="stylesheet" href="static/css/fontawesome/css/all.min.css">
     </head>
+
     <body>
-        <!-- Add sticky menu bar -->
-        <div id="menu-bar" class="sticky">
-            <h1 id="menu-heading">AFCON PERFORMANCE FORECAST</h1>
-            <div id="year-slider-container">
-                <h2 id="slider-header">SELECT YEAR</h2>
-                {{ year_slider_html|safe }} <span id="year-label"></span>
+        <header  id="menu-bar" class="sticky">
+            <!-- Add sticky menu bar -->
+            <div>
+                <h1 id="menu-heading">AFCON PERFORMANCE FORECAST</h1>
+                <div id="year-slider-container">
+                    <h2 id="slider-header">SELECT YEAR</h2>
+                    {{ year_slider_html|safe }} <span id="year-label"></span>
+                </div>
             </div>
-        </div>
-        <div class="chart-container">
-            <div class="chart">
-                <h2 id="chart-heading">TEAMS PROGRESS FORECAST</h2>
-                <div id="forecast-fig"></div>
+        </header>
+
+        <main>
+            <div class="chart-container">
+                <div class="chart">
+                    <h2 id="chart-heading">TEAMS PROGRESS FORECAST</h2>
+                    <div id="forecast-fig"></div>
+                </div>
+                <div class="map">
+                    <h2 id="map-heading">TEAMS VICTORY FORECAST</h2>
+                    <div id="team-wins-fig"></div>
+                </div>
             </div>
-            <div class="map">
-                <h2 id="map-heading">TEAMS VICTORY FORECAST</h2>
-                <div id="team-wins-fig"></div>
-            </div>
-        </div>
-        <h2 id="table-heading">TOP TEAMS FORECAST</h2>
-        <div id="top-countries-table">{{ top_countries_html|safe }}</div>
-        <!-- Add back to top button -->
-        <a href="" id="back-to-top" onclick="scrollToTop(event)"><i class="fas fa-arrow-up"></i></a>
+            <h2 id="table-heading">TOP TEAMS FORECAST</h2>
+            <div id="top-countries-table">{{ top_countries_html|safe }}</div>
+            <!-- Add back to top button -->
+            <a href="" id="back-to-top" onclick="scrollToTop(event)"><i class="fas fa-arrow-up"></i></a>
+        </main>
+
+        <footer>
+            <div class="footer-content">
+                <div class="developer">
+                    DEVELOPED BY N.ELMER
+                </div>
+                <div class="copyright">
+                  &#169; <span id="copyright-year"></span> FOOT FORECASTER. All RIGHTS RESERVED.
+                </div>
+              </div>
+        </footer>
+
+        <!-- The overlay will be removed when the user clicks on the "ACCEPT" button -->
+        <div class="overlay"></div>
+
         <script src="static/js/jquerry.min.js"></script>
         <script src="https://cdn.plot.ly/plotly-latest.min.js" onerror="this.onerror=null;this.src='static/js/plotly/dist/plotly.min.js';"></script>
         <script src="static/js/script.js"></script>
+        <script>
+            // Set the current year dynamically in the copyright section
+            const currentYear = new Date().getFullYear();
+            document.getElementById("copyright-year").textContent = currentYear;
+        </script>
+        <!-- Add the script to create the pop-up -->
+        <script>
+            $(document).ready(() => {
+                setTimeout(() => {
+                const popup = $('<div class="popup"></div>');
+                const popupContent = $('<div class="popup-content"></div>');
+                const warningMessage = $('<p>THE DATA FROM THIS WEB APPLICATION IS ENTIRELY EXPERIMENTAL AND IS NOT INTENDED FOR ANY OFFICIAL OR SERIOUS USECASE THEREFORE WE WOULD NOT BE LIABLE, RESPONSIBLE OR ACCOUNTABLE FOR ANY NEGATIVE OUTCOME RESULTING FROM THE USE OF THIS WEB APPLICATION HENCE BY CLICKING THE BUTTON BELOW YOU THE USER AGREES WITH THESE STATED TERMS AND CONDITIONS.</p>');
+                const acceptButton = $('<button class="accept-button">ACCEPT</button>');
+
+                acceptButton.on('click', () => {
+                    popup.remove();
+                    $('.overlay').remove();
+                });
+
+                popupContent.append(warningMessage);
+                popupContent.append(acceptButton);
+                popup.append(popupContent);
+                $('body').append(popup);
+                }, 500);
+            });
+        </script>
     </body>
 </html>

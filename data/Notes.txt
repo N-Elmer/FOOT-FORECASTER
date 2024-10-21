@@ -1,0 +1,1 @@
+International men's football data from: https://github.com/martj42/international_results

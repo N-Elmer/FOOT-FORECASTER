@@ -198,9 +198,7 @@ def update_dashboard():
     
     top_countries = team_wins.loc[~team_wins['Team'].isin(excluded_teams)].head(5)
     top_countries.insert(0, 'Rank', range(1, len(top_countries) + 1))
-    
     top_countries['Wins'] = top_countries['Wins'].round().astype(int)
-    
     top_countries_html = '<table style="width:95%;height:500px;text-align:center"><tr style="background-color:#00008b;color:white"><th style="text-align:center">RANK</th><th style="text-align:center">TEAM</th><th style="text-align:center">WINS</th></tr>' + ''.join(['<tr class="table-row"><td class="table-cell" style="text-align:center">{}</td><td class="table-cell" style="text-align:center">{}</td><td class="table-cell" style="text-align:center">{}</td></tr>'.format(row['Rank'], row['Team'], row['Wins']) for _, row in top_countries.iterrows()]) + '</table>'
 
     def default(obj):

@@ -1,742 +1,794 @@
 date,home_team,away_team,home_score,away_score,goal_difference,winner,tournament,city,country,neutral
-1957-02-10,Sudan,Egypt,1,2,-1,2,African Cup of Nations,Khartoum,Sudan,False
-1957-02-16,Egypt,Ethiopia,4,0,4,1,African Cup of Nations,Khartoum,Sudan,True
-1959-05-22,Egypt,Ethiopia,4,0,4,1,African Cup of Nations,Cairo,United Arab Republic,True
-1959-05-25,Ethiopia,Sudan,0,1,-1,2,African Cup of Nations,Cairo,United Arab Republic,True
-1959-05-29,Egypt,Sudan,2,1,1,1,African Cup of Nations,Cairo,United Arab Republic,True
-1962-01-14,Ethiopia,Tunisia,4,2,2,1,African Cup of Nations,Addis Ababa,Ethiopia,False
-1962-01-18,Egypt,Uganda,2,1,1,1,African Cup of Nations,Addis Ababa,Ethiopia,True
-1962-01-20,Tunisia,Uganda,3,0,3,1,African Cup of Nations,Addis Ababa,Ethiopia,True
-1962-01-21,Ethiopia,Egypt,4,2,2,1,African Cup of Nations,Addis Ababa,Ethiopia,False
-1963-11-24,Egypt,Nigeria,6,3,3,1,African Cup of Nations,Kumasi,Ghana,True
-1963-11-24,Ghana,Tunisia,1,1,0,0,African Cup of Nations,Accra,Ghana,False
-1963-11-26,Egypt,Sudan,2,2,0,0,African Cup of Nations,Kumasi,Ghana,True
-1963-11-26,Ghana,Ethiopia,2,0,2,1,African Cup of Nations,Accra,Ghana,False
-1963-11-28,Ethiopia,Tunisia,4,2,2,1,African Cup of Nations,Accra,Ghana,True
-1963-11-28,Nigeria,Sudan,0,4,-4,2,African Cup of Nations,Kumasi,Ghana,True
-1963-11-30,Egypt,Ethiopia,3,0,3,1,African Cup of Nations,Accra,Ghana,True
-1963-12-01,Ghana,Sudan,3,0,3,1,African Cup of Nations,Accra,Ghana,False
-1965-11-12,DR Congo,Ghana,2,5,-3,2,African Cup of Nations,Sousse,Tunisia,True
-1965-11-12,Tunisia,Ethiopia,4,0,4,1,African Cup of Nations,Tunis,Tunisia,False
-1965-11-14,DR Congo,Ivory Coast,0,3,-3,2,African Cup of Nations,Sfax,Tunisia,True
-1965-11-14,Tunisia,Senegal,0,0,0,0,African Cup of Nations,Tunis,Tunisia,False
-1965-11-19,Ethiopia,Senegal,1,5,-4,2,African Cup of Nations,Tunis,Tunisia,True
-1965-11-19,Ghana,Ivory Coast,4,1,3,1,African Cup of Nations,Bizerte,Tunisia,True
-1965-11-21,Ivory Coast,Senegal,1,0,1,1,African Cup of Nations,Tunis,Tunisia,True
-1965-11-21,Tunisia,Ghana,2,3,-1,2,African Cup of Nations,Tunis,Tunisia,False
-1968-01-12,Algeria,Ivory Coast,0,3,-3,2,African Cup of Nations,Addis Ababa,Ethiopia,True
-1968-01-12,Congo,DR Congo,0,3,-3,2,African Cup of Nations,Asmara,Ethiopia,True
-1968-01-12,Ethiopia,Uganda,2,1,1,1,African Cup of Nations,Addis Ababa,Ethiopia,False
-1968-01-12,Ghana,Senegal,2,2,0,0,African Cup of Nations,Asmara,Ethiopia,True
-1968-01-14,Algeria,Uganda,4,0,4,1,African Cup of Nations,Addis Ababa,Ethiopia,True
-1968-01-14,Congo,Senegal,1,2,-1,2,African Cup of Nations,Asmara,Ethiopia,True
-1968-01-14,DR Congo,Ghana,1,2,-1,2,African Cup of Nations,Asmara,Ethiopia,True
-1968-01-14,Ethiopia,Ivory Coast,1,0,1,1,African Cup of Nations,Addis Ababa,Ethiopia,False
-1968-01-16,Congo,Ghana,1,3,-2,2,African Cup of Nations,Asmara,Ethiopia,True
-1968-01-16,DR Congo,Senegal,2,1,1,1,African Cup of Nations,Asmara,Ethiopia,True
-1968-01-16,Ethiopia,Algeria,3,1,2,1,African Cup of Nations,Addis Ababa,Ethiopia,False
-1968-01-16,Ivory Coast,Uganda,2,1,1,1,African Cup of Nations,Addis Ababa,Ethiopia,True
-1968-01-19,Ethiopia,DR Congo,2,3,-1,2,African Cup of Nations,Addis Ababa,Ethiopia,False
-1968-01-19,Ghana,Ivory Coast,4,3,1,1,African Cup of Nations,Asmara,Ethiopia,True
-1968-01-21,DR Congo,Ghana,1,0,1,1,African Cup of Nations,Addis Ababa,Ethiopia,True
-1968-01-21,Ethiopia,Ivory Coast,0,1,-1,2,African Cup of Nations,Addis Ababa,Ethiopia,False
-1970-02-06,Cameroon,Ivory Coast,3,2,1,1,African Cup of Nations,Khartoum,Sudan,True
-1970-02-06,Sudan,Ethiopia,3,0,3,1,African Cup of Nations,Khartoum,Sudan,False
-1970-02-07,DR Congo,Ghana,0,2,-2,2,African Cup of Nations,Wad Madani,Sudan,True
-1970-02-07,Egypt,Guinea,4,1,3,1,African Cup of Nations,Wad Madani,Sudan,True
-1970-02-08,Cameroon,Ethiopia,3,2,1,1,African Cup of Nations,Khartoum,Sudan,True
-1970-02-08,Sudan,Ivory Coast,0,1,-1,2,African Cup of Nations,Khartoum,Sudan,False
-1970-02-09,DR Congo,Guinea,2,2,0,0,African Cup of Nations,Wad Madani,Sudan,True
-1970-02-09,Egypt,Ghana,1,1,0,0,African Cup of Nations,Wad Madani,Sudan,True
-1970-02-10,Ethiopia,Ivory Coast,1,6,-5,2,African Cup of Nations,Khartoum,Sudan,True
-1970-02-10,Sudan,Cameroon,2,1,1,1,African Cup of Nations,Khartoum,Sudan,False
-1970-02-11,DR Congo,Egypt,0,1,-1,2,African Cup of Nations,Wad Madani,Sudan,True
-1970-02-11,Ghana,Guinea,1,1,0,0,African Cup of Nations,Wad Madani,Sudan,True
-1970-02-14,Ghana,Ivory Coast,2,1,1,1,African Cup of Nations,Khartoum,Sudan,True
-1970-02-14,Sudan,Egypt,2,1,1,1,African Cup of Nations,Khartoum,Sudan,False
-1970-02-16,Egypt,Ivory Coast,3,1,2,1,African Cup of Nations,Khartoum,Sudan,True
-1970-02-16,Sudan,Ghana,1,0,1,1,African Cup of Nations,Khartoum,Sudan,False
-1972-02-23,Cameroon,Kenya,2,1,1,1,African Cup of Nations,Yaoundé,Cameroon,False
-1972-02-24,Mali,Togo,3,3,0,0,African Cup of Nations,Yaoundé,Cameroon,True
-1972-02-25,Congo,Morocco,1,1,0,0,African Cup of Nations,Douala,Cameroon,True
-1972-02-25,Sudan,DR Congo,1,1,0,0,African Cup of Nations,Douala,Cameroon,True
-1972-02-26,Cameroon,Togo,2,0,2,1,African Cup of Nations,Yaoundé,Cameroon,False
-1972-02-26,Kenya,Mali,1,1,0,0,African Cup of Nations,Yaoundé,Cameroon,True
-1972-02-27,Congo,DR Congo,0,2,-2,2,African Cup of Nations,Douala,Cameroon,True
-1972-02-27,Morocco,Sudan,1,1,0,0,African Cup of Nations,Douala,Cameroon,True
-1972-02-28,Cameroon,Mali,1,1,0,0,African Cup of Nations,Yaoundé,Cameroon,False
-1972-02-28,Kenya,Togo,1,1,0,0,African Cup of Nations,Yaoundé,Cameroon,True
-1972-02-29,Congo,Sudan,4,2,2,1,African Cup of Nations,Douala,Cameroon,True
-1972-02-29,Morocco,DR Congo,1,1,0,0,African Cup of Nations,Douala,Cameroon,True
-1972-03-02,Cameroon,Congo,0,1,-1,2,African Cup of Nations,Yaoundé,Cameroon,False
-1972-03-02,Mali,DR Congo,4,3,1,1,African Cup of Nations,Douala,Cameroon,True
-1972-03-04,Cameroon,DR Congo,5,2,3,1,African Cup of Nations,Yaoundé,Cameroon,False
-1972-03-05,Congo,Mali,3,2,1,1,African Cup of Nations,Yaoundé,Cameroon,True
-1974-03-01,Egypt,Uganda,2,1,1,1,African Cup of Nations,Cairo,Egypt,False
-1974-03-02,Ivory Coast,Zambia,0,1,-1,2,African Cup of Nations,El Mahalla El Kubra,Egypt,True
-1974-03-03,Congo,Mauritius,2,0,2,1,African Cup of Nations,Alexandria,Egypt,True
-1974-03-03,Guinea,DR Congo,1,2,-1,2,African Cup of Nations,Damanhur,Egypt,True
-1974-03-04,Egypt,Zambia,3,1,2,1,African Cup of Nations,Cairo,Egypt,False
-1974-03-04,Ivory Coast,Uganda,2,2,0,0,African Cup of Nations,El Mahalla El Kubra,Egypt,True
-1974-03-05,Congo,DR Congo,2,1,1,1,African Cup of Nations,Alexandria,Egypt,True
-1974-03-05,Guinea,Mauritius,2,1,1,1,African Cup of Nations,Damanhur,Egypt,True
-1974-03-06,Egypt,Ivory Coast,2,0,2,1,African Cup of Nations,Cairo,Egypt,False
-1974-03-06,Uganda,Zambia,0,1,-1,2,African Cup of Nations,El Mahalla El Kubra,Egypt,True
-1974-03-07,Congo,Guinea,1,1,0,0,African Cup of Nations,Alexandria,Egypt,True
-1974-03-07,Mauritius,DR Congo,1,4,-3,2,African Cup of Nations,Damanhur,Egypt,True
-1974-03-09,Congo,Zambia,2,4,-2,2,African Cup of Nations,Alexandria,Egypt,True
-1974-03-09,Egypt,DR Congo,2,3,-1,2,African Cup of Nations,Cairo,Egypt,False
-1974-03-11,Egypt,Congo,4,0,4,1,African Cup of Nations,Cairo,Egypt,False
-1974-03-12,DR Congo,Zambia,2,2,0,0,African Cup of Nations,Cairo,Egypt,True
-1974-03-14,DR Congo,Zambia,2,0,2,1,African Cup of Nations,Cairo,Egypt,True
-1976-02-29,Egypt,Guinea,1,1,0,0,African Cup of Nations,Addis Ababa,Ethiopia,True
-1976-02-29,Ethiopia,Uganda,2,0,2,1,African Cup of Nations,Addis Ababa,Ethiopia,False
-1976-03-01,Morocco,Sudan,2,2,0,0,African Cup of Nations,Dire Dawa,Ethiopia,True
-1976-03-01,Nigeria,DR Congo,4,2,2,1,African Cup of Nations,Dire Dawa,Ethiopia,True
-1976-03-03,Egypt,Uganda,2,1,1,1,African Cup of Nations,Addis Ababa,Ethiopia,True
-1976-03-03,Ethiopia,Guinea,1,2,-1,2,African Cup of Nations,Addis Ababa,Ethiopia,False
-1976-03-04,Morocco,DR Congo,1,0,1,1,African Cup of Nations,Dire Dawa,Ethiopia,True
-1976-03-04,Nigeria,Sudan,1,0,1,1,African Cup of Nations,Dire Dawa,Ethiopia,True
-1976-03-05,Ethiopia,Egypt,1,1,0,0,African Cup of Nations,Addis Ababa,Ethiopia,False
-1976-03-05,Guinea,Uganda,2,1,1,1,African Cup of Nations,Addis Ababa,Ethiopia,True
-1976-03-06,Morocco,Nigeria,3,1,2,1,African Cup of Nations,Dire Dawa,Ethiopia,True
-1976-03-06,Sudan,DR Congo,1,1,0,0,African Cup of Nations,Dire Dawa,Ethiopia,True
-1976-03-09,Egypt,Morocco,1,2,-1,2,African Cup of Nations,Addis Ababa,Ethiopia,True
-1976-03-09,Guinea,Nigeria,1,1,0,0,African Cup of Nations,Addis Ababa,Ethiopia,True
-1976-03-11,Egypt,Guinea,2,4,-2,2,African Cup of Nations,Addis Ababa,Ethiopia,True
-1976-03-11,Morocco,Nigeria,2,1,1,1,African Cup of Nations,Addis Ababa,Ethiopia,True
-1976-03-14,Egypt,Nigeria,2,3,-1,2,African Cup of Nations,Addis Ababa,Ethiopia,True
-1976-03-14,Guinea,Morocco,1,1,0,0,African Cup of Nations,Addis Ababa,Ethiopia,True
-1978-03-05,Ghana,Zambia,2,1,1,1,African Cup of Nations,Accra,Ghana,False
-1978-03-05,Nigeria,Burkina Faso,4,2,2,1,African Cup of Nations,Accra,Ghana,True
-1978-03-06,Congo,Uganda,1,3,-2,2,African Cup of Nations,Kumasi,Ghana,True
-1978-03-06,Morocco,Tunisia,1,1,0,0,African Cup of Nations,Kumasi,Ghana,True
-1978-03-08,Burkina Faso,Zambia,0,2,-2,2,African Cup of Nations,Accra,Ghana,True
-1978-03-08,Ghana,Nigeria,1,1,0,0,African Cup of Nations,Accra,Ghana,False
-1978-03-09,Congo,Morocco,0,1,-1,2,African Cup of Nations,Kumasi,Ghana,True
-1978-03-09,Tunisia,Uganda,3,1,2,1,African Cup of Nations,Kumasi,Ghana,True
-1978-03-10,Ghana,Burkina Faso,3,0,3,1,African Cup of Nations,Accra,Ghana,False
-1978-03-10,Nigeria,Zambia,0,0,0,0,African Cup of Nations,Accra,Ghana,True
-1978-03-11,Congo,Tunisia,0,0,0,0,African Cup of Nations,Kumasi,Ghana,True
-1978-03-11,Morocco,Uganda,0,3,-3,2,African Cup of Nations,Kumasi,Ghana,True
-1978-03-14,Ghana,Tunisia,1,0,1,1,African Cup of Nations,Accra,Ghana,False
-1978-03-14,Nigeria,Uganda,1,2,-1,2,African Cup of Nations,Kumasi,Ghana,True
-1978-03-16,Ghana,Uganda,2,0,2,1,African Cup of Nations,Accra,Ghana,False
-1980-03-08,Egypt,Ivory Coast,2,1,1,1,African Cup of Nations,Lagos,Nigeria,True
-1980-03-08,Nigeria,Tanzania,3,1,2,1,African Cup of Nations,Lagos,Nigeria,False
-1980-03-09,Algeria,Ghana,0,0,0,0,African Cup of Nations,Ibadan,Nigeria,True
-1980-03-09,Guinea,Morocco,1,1,0,0,African Cup of Nations,Ibadan,Nigeria,True
-1980-03-12,Egypt,Tanzania,2,1,1,1,African Cup of Nations,Lagos,Nigeria,True
-1980-03-12,Nigeria,Ivory Coast,0,0,0,0,African Cup of Nations,Lagos,Nigeria,False
-1980-03-13,Algeria,Morocco,1,0,1,1,African Cup of Nations,Ibadan,Nigeria,True
-1980-03-13,Ghana,Guinea,1,0,1,1,African Cup of Nations,Ibadan,Nigeria,True
-1980-03-15,Ivory Coast,Tanzania,1,1,0,0,African Cup of Nations,Lagos,Nigeria,True
-1980-03-15,Nigeria,Egypt,1,0,1,1,African Cup of Nations,Lagos,Nigeria,False
-1980-03-16,Algeria,Guinea,3,2,1,1,African Cup of Nations,Ibadan,Nigeria,True
-1980-03-16,Ghana,Morocco,0,1,-1,2,African Cup of Nations,Ibadan,Nigeria,True
-1980-03-19,Algeria,Egypt,2,2,0,0,African Cup of Nations,Ibadan,Nigeria,True
-1980-03-19,Nigeria,Morocco,1,0,1,1,African Cup of Nations,Lagos,Nigeria,False
-1980-03-21,Egypt,Morocco,0,2,-2,2,African Cup of Nations,Lagos,Nigeria,True
-1980-03-22,Nigeria,Algeria,3,0,3,1,African Cup of Nations,Lagos,Nigeria,False
-1982-03-05,Cameroon,Tunisia,1,1,0,0,African Cup of Nations,Tripoli,Libya,True
-1982-03-05,Libya,Ghana,2,2,0,0,African Cup of Nations,Tripoli,Libya,False
-1982-03-07,Algeria,Zambia,1,0,1,1,African Cup of Nations,Benghazi,Libya,True
-1982-03-07,Ethiopia,Nigeria,0,3,-3,2,African Cup of Nations,Benghazi,Libya,True
-1982-03-09,Cameroon,Ghana,0,0,0,0,African Cup of Nations,Tripoli,Libya,True
-1982-03-09,Libya,Tunisia,2,0,2,1,African Cup of Nations,Tripoli,Libya,False
-1982-03-10,Algeria,Nigeria,2,1,1,1,African Cup of Nations,Benghazi,Libya,True
-1982-03-10,Ethiopia,Zambia,0,1,-1,2,African Cup of Nations,Benghazi,Libya,True
-1982-03-12,Ghana,Tunisia,1,0,1,1,African Cup of Nations,Tripoli,Libya,True
-1982-03-12,Libya,Cameroon,0,0,0,0,African Cup of Nations,Tripoli,Libya,False
-1982-03-13,Algeria,Ethiopia,0,0,0,0,African Cup of Nations,Benghazi,Libya,True
-1982-03-13,Nigeria,Zambia,0,3,-3,2,African Cup of Nations,Benghazi,Libya,True
-1982-03-16,Algeria,Ghana,2,3,-1,2,African Cup of Nations,Benghazi,Libya,True
-1982-03-16,Libya,Zambia,2,1,1,1,African Cup of Nations,Tripoli,Libya,False
-1982-03-18,Algeria,Zambia,0,2,-2,2,African Cup of Nations,Tripoli,Libya,True
-1982-03-19,Libya,Ghana,1,1,0,0,African Cup of Nations,Tripoli,Libya,False
-1984-03-04,Cameroon,Egypt,0,1,-1,2,African Cup of Nations,Abidjan,Ivory Coast,True
-1984-03-04,Ivory Coast,Togo,3,0,3,1,African Cup of Nations,Abidjan,Ivory Coast,False
-1984-03-05,Algeria,Malawi,3,0,3,1,African Cup of Nations,Bouaké,Ivory Coast,True
-1984-03-05,Ghana,Nigeria,1,2,-1,2,African Cup of Nations,Bouaké,Ivory Coast,True
-1984-03-07,Cameroon,Togo,4,1,3,1,African Cup of Nations,Abidjan,Ivory Coast,True
-1984-03-07,Ivory Coast,Egypt,1,2,-1,2,African Cup of Nations,Abidjan,Ivory Coast,False
-1984-03-08,Algeria,Ghana,2,0,2,1,African Cup of Nations,Bouaké,Ivory Coast,True
-1984-03-08,Malawi,Nigeria,2,2,0,0,African Cup of Nations,Bouaké,Ivory Coast,True
-1984-03-10,Egypt,Togo,0,0,0,0,African Cup of Nations,Abidjan,Ivory Coast,True
-1984-03-10,Ivory Coast,Cameroon,0,2,-2,2,African Cup of Nations,Abidjan,Ivory Coast,False
-1984-03-11,Algeria,Nigeria,0,0,0,0,African Cup of Nations,Bouaké,Ivory Coast,True
-1984-03-11,Ghana,Malawi,1,0,1,1,African Cup of Nations,Bouaké,Ivory Coast,True
-1984-03-14,Algeria,Cameroon,0,0,0,0,African Cup of Nations,Bouaké,Ivory Coast,True
-1984-03-14,Egypt,Nigeria,2,2,0,0,African Cup of Nations,Abidjan,Ivory Coast,True
-1984-03-17,Algeria,Egypt,3,1,2,1,African Cup of Nations,Abidjan,Ivory Coast,True
-1984-03-18,Cameroon,Nigeria,3,1,2,1,African Cup of Nations,Abidjan,Ivory Coast,True
-1986-03-07,Egypt,Senegal,0,1,-1,2,African Cup of Nations,Cairo,Egypt,False
-1986-03-07,Ivory Coast,Mozambique,3,0,3,1,African Cup of Nations,Cairo,Egypt,True
-1986-03-08,Algeria,Morocco,0,0,0,0,African Cup of Nations,Alexandria,Egypt,True
-1986-03-08,Cameroon,Zambia,3,2,1,1,African Cup of Nations,Alexandria,Egypt,True
-1986-03-10,Egypt,Ivory Coast,2,0,2,1,African Cup of Nations,Cairo,Egypt,False
-1986-03-10,Mozambique,Senegal,0,2,-2,2,African Cup of Nations,Cairo,Egypt,True
-1986-03-11,Algeria,Zambia,0,0,0,0,African Cup of Nations,Alexandria,Egypt,True
-1986-03-11,Cameroon,Morocco,1,1,0,0,African Cup of Nations,Alexandria,Egypt,True
-1986-03-13,Egypt,Mozambique,2,0,2,1,African Cup of Nations,Cairo,Egypt,False
-1986-03-13,Ivory Coast,Senegal,1,0,1,1,African Cup of Nations,Cairo,Egypt,True
-1986-03-14,Algeria,Cameroon,2,3,-1,2,African Cup of Nations,Alexandria,Egypt,True
-1986-03-14,Morocco,Zambia,1,0,1,1,African Cup of Nations,Alexandria,Egypt,True
-1986-03-17,Cameroon,Ivory Coast,1,0,1,1,African Cup of Nations,Alexandria,Egypt,True
-1986-03-17,Egypt,Morocco,1,0,1,1,African Cup of Nations,Cairo,Egypt,False
-1986-03-20,Ivory Coast,Morocco,3,2,1,1,African Cup of Nations,Cairo,Egypt,True
-1986-03-21,Egypt,Cameroon,0,0,0,0,African Cup of Nations,Cairo,Egypt,False
-1988-03-13,Algeria,Ivory Coast,1,1,0,0,African Cup of Nations,Casablanca,Morocco,True
-1988-03-13,Morocco,DR Congo,1,1,0,0,African Cup of Nations,Casablanca,Morocco,False
-1988-03-14,Cameroon,Egypt,1,0,1,1,African Cup of Nations,Rabat,Morocco,True
-1988-03-14,Kenya,Nigeria,0,3,-3,2,African Cup of Nations,Rabat,Morocco,True
-1988-03-16,Ivory Coast,DR Congo,1,1,0,0,African Cup of Nations,Casablanca,Morocco,True
-1988-03-16,Morocco,Algeria,1,0,1,1,African Cup of Nations,Casablanca,Morocco,False
-1988-03-17,Cameroon,Nigeria,1,1,0,0,African Cup of Nations,Rabat,Morocco,True
-1988-03-17,Egypt,Kenya,3,0,3,1,African Cup of Nations,Rabat,Morocco,True
-1988-03-19,Algeria,DR Congo,1,0,1,1,African Cup of Nations,Casablanca,Morocco,True
-1988-03-19,Morocco,Ivory Coast,0,0,0,0,African Cup of Nations,Casablanca,Morocco,False
-1988-03-20,Cameroon,Kenya,0,0,0,0,African Cup of Nations,Rabat,Morocco,True
-1988-03-20,Egypt,Nigeria,0,0,0,0,African Cup of Nations,Rabat,Morocco,True
-1988-03-23,Algeria,Nigeria,1,1,0,0,African Cup of Nations,Rabat,Morocco,True
-1988-03-23,Morocco,Cameroon,0,1,-1,2,African Cup of Nations,Casablanca,Morocco,False
-1988-03-26,Morocco,Algeria,1,1,0,0,African Cup of Nations,Casablanca,Morocco,False
-1988-03-27,Cameroon,Nigeria,1,0,1,1,African Cup of Nations,Casablanca,Morocco,True
-1990-03-02,Algeria,Nigeria,5,1,4,1,African Cup of Nations,Algiers,Algeria,False
-1990-03-02,Ivory Coast,Egypt,3,1,2,1,African Cup of Nations,Algiers,Algeria,True
-1990-03-03,Cameroon,Zambia,0,1,-1,2,African Cup of Nations,Annaba,Algeria,True
-1990-03-03,Senegal,Kenya,0,0,0,0,African Cup of Nations,Annaba,Algeria,True
-1990-03-05,Algeria,Ivory Coast,3,0,3,1,African Cup of Nations,Algiers,Algeria,False
-1990-03-05,Nigeria,Egypt,1,0,1,1,African Cup of Nations,Algiers,Algeria,True
-1990-03-06,Cameroon,Senegal,0,2,-2,2,African Cup of Nations,Annaba,Algeria,True
-1990-03-06,Zambia,Kenya,1,0,1,1,African Cup of Nations,Annaba,Algeria,True
-1990-03-08,Algeria,Egypt,2,0,2,1,African Cup of Nations,Algiers,Algeria,False
-1990-03-08,Nigeria,Ivory Coast,1,0,1,1,African Cup of Nations,Algiers,Algeria,True
-1990-03-09,Cameroon,Kenya,2,0,2,1,African Cup of Nations,Annaba,Algeria,True
-1990-03-09,Zambia,Senegal,0,0,0,0,African Cup of Nations,Annaba,Algeria,True
-1990-03-12,Algeria,Senegal,2,1,1,1,African Cup of Nations,Algiers,Algeria,False
-1990-03-12,Nigeria,Zambia,2,0,2,1,African Cup of Nations,Annaba,Algeria,True
-1990-03-15,Senegal,Zambia,0,1,-1,2,African Cup of Nations,Algiers,Algeria,True
-1990-03-16,Algeria,Nigeria,1,0,1,1,African Cup of Nations,Algiers,Algeria,False
-1992-01-12,Cameroon,Morocco,1,0,1,1,African Cup of Nations,Dakar,Senegal,True
-1992-01-12,Senegal,Nigeria,1,2,-1,2,African Cup of Nations,Dakar,Senegal,False
-1992-01-13,Algeria,Ivory Coast,0,3,-3,2,African Cup of Nations,Ziguinchor,Senegal,True
-1992-01-13,Egypt,Zambia,0,1,-1,2,African Cup of Nations,Ziguinchor,Senegal,True
-1992-01-14,Morocco,DR Congo,1,1,0,0,African Cup of Nations,Dakar,Senegal,True
-1992-01-14,Nigeria,Kenya,2,1,1,1,African Cup of Nations,Dakar,Senegal,True
-1992-01-15,Ivory Coast,Congo,0,0,0,0,African Cup of Nations,Ziguinchor,Senegal,True
-1992-01-15,Zambia,Ghana,0,1,-1,2,African Cup of Nations,Ziguinchor,Senegal,True
-1992-01-16,Cameroon,DR Congo,1,1,0,0,African Cup of Nations,Dakar,Senegal,True
-1992-01-16,Senegal,Kenya,3,0,3,1,African Cup of Nations,Dakar,Senegal,False
-1992-01-17,Algeria,Congo,1,1,0,0,African Cup of Nations,Ziguinchor,Senegal,True
-1992-01-17,Egypt,Ghana,0,1,-1,2,African Cup of Nations,Ziguinchor,Senegal,True
-1992-01-19,Nigeria,DR Congo,1,0,1,1,African Cup of Nations,Dakar,Senegal,True
-1992-01-19,Senegal,Cameroon,0,1,-1,2,African Cup of Nations,Dakar,Senegal,False
-1992-01-20,Ghana,Congo,2,1,1,1,African Cup of Nations,Dakar,Senegal,True
-1992-01-20,Ivory Coast,Zambia,1,0,1,1,African Cup of Nations,Dakar,Senegal,True
-1992-01-23,Cameroon,Ivory Coast,0,0,0,0,African Cup of Nations,Dakar,Senegal,True
-1992-01-23,Nigeria,Ghana,1,2,-1,2,African Cup of Nations,Dakar,Senegal,True
-1992-01-25,Cameroon,Nigeria,1,2,-1,2,African Cup of Nations,Dakar,Senegal,True
-1992-01-26,Ghana,Ivory Coast,0,0,0,0,African Cup of Nations,Dakar,Senegal,True
-1994-03-26,Nigeria,Gabon,3,0,3,1,African Cup of Nations,Tunis,Tunisia,True
-1994-03-26,Tunisia,Mali,0,2,-2,2,African Cup of Nations,Tunis,Tunisia,False
-1994-03-27,Ghana,Guinea,1,0,1,1,African Cup of Nations,Sousse,Tunisia,True
-1994-03-27,Ivory Coast,Sierra Leone,4,0,4,1,African Cup of Nations,Sousse,Tunisia,True
-1994-03-28,Egypt,Gabon,4,0,4,1,African Cup of Nations,Tunis,Tunisia,True
-1994-03-28,Mali,DR Congo,0,1,-1,2,African Cup of Nations,Tunis,Tunisia,True
-1994-03-29,Senegal,Guinea,2,1,1,1,African Cup of Nations,Sousse,Tunisia,True
-1994-03-29,Zambia,Sierra Leone,0,0,0,0,African Cup of Nations,Sousse,Tunisia,True
-1994-03-30,Nigeria,Egypt,0,0,0,0,African Cup of Nations,Tunis,Tunisia,True
-1994-03-30,Tunisia,DR Congo,1,1,0,0,African Cup of Nations,Tunis,Tunisia,False
-1994-03-31,Ghana,Senegal,1,0,1,1,African Cup of Nations,Sousse,Tunisia,True
-1994-03-31,Zambia,Ivory Coast,1,0,1,1,African Cup of Nations,Sousse,Tunisia,True
-1994-04-02,DR Congo,Nigeria,0,2,-2,2,African Cup of Nations,Tunis,Tunisia,True
-1994-04-02,Egypt,Mali,0,1,-1,2,African Cup of Nations,Tunis,Tunisia,True
-1994-04-03,Ghana,Ivory Coast,1,2,-1,2,African Cup of Nations,Sousse,Tunisia,True
-1994-04-03,Zambia,Senegal,1,0,1,1,African Cup of Nations,Sousse,Tunisia,True
-1994-04-06,Nigeria,Ivory Coast,2,2,0,0,African Cup of Nations,Tunis,Tunisia,True
-1994-04-06,Zambia,Mali,4,0,4,1,African Cup of Nations,Tunis,Tunisia,True
-1994-04-10,Ivory Coast,Mali,3,1,2,1,African Cup of Nations,Tunis,Tunisia,True
-1994-04-10,Nigeria,Zambia,2,1,1,1,African Cup of Nations,Tunis,Tunisia,True
-1996-01-13,South Africa,Cameroon,3,0,3,1,African Cup of Nations,Johannesburg,South Africa,False
-1996-01-14,Ivory Coast,Ghana,0,2,-2,2,African Cup of Nations,Port Elizabeth,South Africa,True
-1996-01-14,Zambia,Algeria,0,0,0,0,African Cup of Nations,Bloemfontein,South Africa,True
-1996-01-15,Egypt,Angola,2,1,1,1,African Cup of Nations,Johannesburg,South Africa,True
-1996-01-15,Sierra Leone,Burkina Faso,2,1,1,1,African Cup of Nations,Bloemfontein,South Africa,True
-1996-01-16,Gabon,Liberia,1,2,-1,2,African Cup of Nations,Durban,South Africa,True
-1996-01-16,Tunisia,Mozambique,1,1,0,0,African Cup of Nations,Port Elizabeth,South Africa,True
-1996-01-18,Algeria,Sierra Leone,2,0,2,1,African Cup of Nations,Bloemfontein,South Africa,True
-1996-01-18,Cameroon,Egypt,2,1,1,1,African Cup of Nations,Johannesburg,South Africa,True
-1996-01-19,DR Congo,Gabon,0,2,-2,2,African Cup of Nations,Durban,South Africa,True
-1996-01-19,Ghana,Tunisia,2,1,1,1,African Cup of Nations,Port Elizabeth,South Africa,True
-1996-01-20,Burkina Faso,Zambia,1,5,-4,2,African Cup of Nations,Bloemfontein,South Africa,True
-1996-01-20,South Africa,Angola,1,0,1,1,African Cup of Nations,Johannesburg,South Africa,False
-1996-01-21,Mozambique,Ivory Coast,0,1,-1,2,African Cup of Nations,Port Elizabeth,South Africa,True
-1996-01-24,Angola,Cameroon,3,3,0,0,African Cup of Nations,Durban,South Africa,True
-1996-01-24,Burkina Faso,Algeria,1,2,-1,2,African Cup of Nations,Port Elizabeth,South Africa,True
-1996-01-24,Sierra Leone,Zambia,0,4,-4,2,African Cup of Nations,Bloemfontein,South Africa,True
-1996-01-24,South Africa,Egypt,0,1,-1,2,African Cup of Nations,Johannesburg,South Africa,False
-1996-01-25,Liberia,DR Congo,0,2,-2,2,African Cup of Nations,Johannesburg,South Africa,True
-1996-01-25,Mozambique,Ghana,0,2,-2,2,African Cup of Nations,Bloemfontein,South Africa,True
-1996-01-25,Tunisia,Ivory Coast,3,1,2,1,African Cup of Nations,Port Elizabeth,South Africa,True
-1996-01-27,South Africa,Algeria,2,1,1,1,African Cup of Nations,Johannesburg,South Africa,False
-1996-01-27,Zambia,Egypt,3,1,2,1,African Cup of Nations,Bloemfontein,South Africa,True
-1996-01-28,Gabon,Tunisia,1,1,0,0,African Cup of Nations,Durban,South Africa,True
-1996-01-28,Ghana,DR Congo,1,0,1,1,African Cup of Nations,Port Elizabeth,South Africa,True
-1996-01-31,South Africa,Ghana,3,0,3,1,African Cup of Nations,Johannesburg,South Africa,False
-1996-01-31,Zambia,Tunisia,2,4,-2,2,African Cup of Nations,Durban,South Africa,True
-1996-02-03,South Africa,Tunisia,2,0,2,1,African Cup of Nations,Johannesburg,South Africa,False
-1996-02-03,Zambia,Ghana,1,0,1,1,African Cup of Nations,Johannesburg,South Africa,True
-1998-02-07,Burkina Faso,Cameroon,0,1,-1,2,African Cup of Nations,Ouagadougou,Burkina Faso,False
-1998-02-08,Algeria,Guinea,0,1,-1,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
-1998-02-08,Ivory Coast,Namibia,4,3,1,1,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
-1998-02-08,South Africa,Angola,0,0,0,0,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
-1998-02-09,DR Congo,Togo,2,1,1,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
-1998-02-09,Ghana,Tunisia,2,0,2,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
-1998-02-09,Zambia,Morocco,1,1,0,0,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
-1998-02-10,Egypt,Mozambique,2,0,2,1,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
-1998-02-11,Burkina Faso,Algeria,2,1,1,1,African Cup of Nations,Ouagadougou,Burkina Faso,False
-1998-02-11,Cameroon,Guinea,2,2,0,0,African Cup of Nations,Ouagadougou,Burkina Faso,True
-1998-02-11,South Africa,Ivory Coast,1,1,0,0,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
-1998-02-12,Angola,Namibia,3,3,0,0,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
-1998-02-12,Ghana,Togo,1,2,-1,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
-1998-02-12,Tunisia,DR Congo,2,1,1,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
-1998-02-13,Morocco,Mozambique,3,0,3,1,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
-1998-02-13,Zambia,Egypt,0,4,-4,2,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
-1998-02-15,Burkina Faso,Guinea,1,0,1,1,African Cup of Nations,Ouagadougou,Burkina Faso,False
-1998-02-15,Cameroon,Algeria,2,1,1,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
-1998-02-16,Ghana,DR Congo,0,1,-1,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
-1998-02-16,Ivory Coast,Angola,5,2,3,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
-1998-02-16,South Africa,Namibia,4,1,3,1,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
-1998-02-16,Tunisia,Togo,3,1,2,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
-1998-02-17,Egypt,Morocco,0,1,-1,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
-1998-02-17,Zambia,Mozambique,3,1,2,1,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
-1998-02-20,Cameroon,DR Congo,0,1,-1,2,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
-1998-02-21,Burkina Faso,Tunisia,1,1,0,0,African Cup of Nations,Ouagadougou,Burkina Faso,False
-1998-02-21,Ivory Coast,Egypt,0,0,0,0,African Cup of Nations,Ouagadougou,Burkina Faso,True
-1998-02-22,Morocco,South Africa,1,2,-1,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
-1998-02-25,Burkina Faso,Egypt,0,2,-2,2,African Cup of Nations,Bobo Dioulasso,Burkina Faso,False
-1998-02-25,DR Congo,South Africa,1,2,-1,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
-1998-02-27,Burkina Faso,DR Congo,4,4,0,0,African Cup of Nations,Ouagadougou,Burkina Faso,False
-1998-02-28,South Africa,Egypt,0,2,-2,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
-2000-01-22,Ghana,Cameroon,1,1,0,0,African Cup of Nations,Accra,Ghana,False
-2000-01-23,Egypt,Zambia,2,0,2,1,African Cup of Nations,Kano,Nigeria,True
-2000-01-23,Nigeria,Tunisia,4,2,2,1,African Cup of Nations,Lagos,Nigeria,False
-2000-01-23,South Africa,Gabon,3,1,2,1,African Cup of Nations,Kumasi,Ghana,True
-2000-01-24,DR Congo,Algeria,0,0,0,0,African Cup of Nations,Kumasi,Ghana,True
-2000-01-24,Ivory Coast,Togo,1,1,0,0,African Cup of Nations,Accra,Ghana,True
-2000-01-25,Burkina Faso,Senegal,1,3,-2,2,African Cup of Nations,Kano,Nigeria,True
-2000-01-25,Morocco,Congo,1,0,1,1,African Cup of Nations,Lagos,Nigeria,True
-2000-01-27,Ghana,Togo,2,0,2,1,African Cup of Nations,Accra,Ghana,False
-2000-01-27,South Africa,DR Congo,1,0,1,1,African Cup of Nations,Kumasi,Ghana,True
-2000-01-28,Cameroon,Ivory Coast,3,0,3,1,African Cup of Nations,Accra,Ghana,True
-2000-01-28,Egypt,Senegal,1,0,1,1,African Cup of Nations,Kano,Nigeria,True
-2000-01-28,Nigeria,Congo,0,0,0,0,African Cup of Nations,Lagos,Nigeria,False
-2000-01-29,Algeria,Gabon,3,1,2,1,African Cup of Nations,Kumasi,Ghana,True
-2000-01-29,Tunisia,Morocco,0,0,0,0,African Cup of Nations,Lagos,Nigeria,True
-2000-01-29,Zambia,Burkina Faso,1,1,0,0,African Cup of Nations,Kano,Nigeria,True
-2000-01-31,Cameroon,Togo,0,1,-1,2,African Cup of Nations,Kumasi,Ghana,True
-2000-01-31,Ghana,Ivory Coast,0,2,-2,2,African Cup of Nations,Accra,Ghana,False
-2000-02-01,Egypt,Burkina Faso,4,2,2,1,African Cup of Nations,Kano,Nigeria,True
-2000-02-01,Zambia,Senegal,2,2,0,0,African Cup of Nations,Lagos,Nigeria,True
-2000-02-02,DR Congo,Gabon,0,0,0,0,African Cup of Nations,Accra,Ghana,True
-2000-02-02,South Africa,Algeria,1,1,0,0,African Cup of Nations,Kumasi,Ghana,True
-2000-02-03,Nigeria,Morocco,2,0,2,1,African Cup of Nations,Lagos,Nigeria,False
-2000-02-03,Tunisia,Congo,1,0,1,1,African Cup of Nations,Kano,Nigeria,True
-2000-02-06,Cameroon,Algeria,2,1,1,1,African Cup of Nations,Accra,Ghana,True
-2000-02-06,Ghana,South Africa,0,1,-1,2,African Cup of Nations,Kumasi,Ghana,False
-2000-02-07,Egypt,Tunisia,0,1,-1,2,African Cup of Nations,Kano,Nigeria,True
-2000-02-07,Nigeria,Senegal,2,1,1,1,African Cup of Nations,Lagos,Nigeria,False
-2000-02-10,Cameroon,Tunisia,3,0,3,1,African Cup of Nations,Accra,Ghana,True
-2000-02-10,Nigeria,South Africa,2,0,2,1,African Cup of Nations,Lagos,Nigeria,False
-2000-02-12,South Africa,Tunisia,2,2,0,0,African Cup of Nations,Accra,Ghana,True
-2000-02-13,Nigeria,Cameroon,2,2,0,0,African Cup of Nations,Lagos,Nigeria,False
-2002-01-19,Mali,Liberia,1,1,0,0,African Cup of Nations,Bamako,Mali,False
-2002-01-20,Cameroon,DR Congo,1,0,1,1,African Cup of Nations,Sikasso,Mali,True
-2002-01-20,Egypt,Senegal,0,1,-1,2,African Cup of Nations,Bamako,Mali,True
-2002-01-20,South Africa,Burkina Faso,0,0,0,0,African Cup of Nations,Ségou,Mali,True
-2002-01-21,Algeria,Nigeria,0,1,-1,2,African Cup of Nations,Bamako,Mali,True
-2002-01-21,Morocco,Ghana,0,0,0,0,African Cup of Nations,Ségou,Mali,True
-2002-01-21,Togo,Ivory Coast,0,0,0,0,African Cup of Nations,Sikasso,Mali,True
-2002-01-21,Zambia,Tunisia,0,0,0,0,African Cup of Nations,Bamako,Mali,True
-2002-01-24,Mali,Nigeria,0,0,0,0,African Cup of Nations,Bamako,Mali,False
-2002-01-24,South Africa,Ghana,0,0,0,0,African Cup of Nations,Ségou,Mali,True
-2002-01-25,Cameroon,Ivory Coast,1,0,1,1,African Cup of Nations,Sikasso,Mali,True
-2002-01-25,Egypt,Tunisia,1,0,1,1,African Cup of Nations,Bamako,Mali,True
-2002-01-25,Liberia,Algeria,2,2,0,0,African Cup of Nations,Bamako,Mali,True
-2002-01-26,Burkina Faso,Morocco,1,2,-1,2,African Cup of Nations,Ségou,Mali,True
-2002-01-26,DR Congo,Togo,0,0,0,0,African Cup of Nations,Sikasso,Mali,True
-2002-01-26,Senegal,Zambia,1,0,1,1,African Cup of Nations,Bamako,Mali,True
-2002-01-28,Liberia,Nigeria,0,1,-1,2,African Cup of Nations,Mopti,Mali,True
-2002-01-28,Mali,Algeria,2,0,2,1,African Cup of Nations,Bamako,Mali,False
-2002-01-29,Cameroon,Togo,3,0,3,1,African Cup of Nations,Sikasso,Mali,True
-2002-01-29,DR Congo,Ivory Coast,3,1,2,1,African Cup of Nations,Kayes,Mali,True
-2002-01-30,Burkina Faso,Ghana,1,2,-1,2,African Cup of Nations,Mopti,Mali,True
-2002-01-30,South Africa,Morocco,3,1,2,1,African Cup of Nations,Ségou,Mali,True
-2002-01-31,Egypt,Zambia,2,1,1,1,African Cup of Nations,Bamako,Mali,True
-2002-01-31,Senegal,Tunisia,0,0,0,0,African Cup of Nations,Kayes,Mali,True
-2002-02-03,Mali,South Africa,2,0,2,1,African Cup of Nations,Kayes,Mali,False
-2002-02-03,Nigeria,Ghana,1,0,1,1,African Cup of Nations,Bamako,Mali,True
-2002-02-04,Cameroon,Egypt,1,0,1,1,African Cup of Nations,Sikasso,Mali,True
-2002-02-04,Senegal,DR Congo,2,0,2,1,African Cup of Nations,Bamako,Mali,True
-2002-02-07,Mali,Cameroon,0,3,-3,2,African Cup of Nations,Bamako,Mali,False
-2002-02-07,Nigeria,Senegal,1,2,-1,2,African Cup of Nations,Bamako,Mali,True
-2002-02-09,Mali,Nigeria,0,1,-1,2,African Cup of Nations,Mopti,Mali,False
-2002-02-10,Senegal,Cameroon,0,0,0,0,African Cup of Nations,Bamako,Mali,True
-2004-01-24,Tunisia,Rwanda,2,1,1,1,African Cup of Nations,Radès,Tunisia,False
-2004-01-25,Cameroon,Algeria,1,1,0,0,African Cup of Nations,Sousse,Tunisia,True
-2004-01-25,DR Congo,Guinea,1,2,-1,2,African Cup of Nations,Tunis,Tunisia,True
-2004-01-25,Zimbabwe,Egypt,1,2,-1,2,African Cup of Nations,Sfax,Tunisia,True
-2004-01-26,Kenya,Mali,1,3,-2,2,African Cup of Nations,Bizerte,Tunisia,True
-2004-01-26,Senegal,Burkina Faso,0,0,0,0,African Cup of Nations,Tunis,Tunisia,True
-2004-01-27,Nigeria,Morocco,0,1,-1,2,African Cup of Nations,Monastir,Tunisia,True
-2004-01-27,South Africa,Benin,2,0,2,1,African Cup of Nations,Sfax,Tunisia,True
-2004-01-28,Rwanda,Guinea,1,1,0,0,African Cup of Nations,Bizerte,Tunisia,True
-2004-01-28,Tunisia,DR Congo,3,0,3,1,African Cup of Nations,Radès,Tunisia,False
-2004-01-29,Algeria,Egypt,2,1,1,1,African Cup of Nations,Sousse,Tunisia,True
-2004-01-29,Cameroon,Zimbabwe,5,3,2,1,African Cup of Nations,Sfax,Tunisia,True
-2004-01-30,Burkina Faso,Mali,1,3,-2,2,African Cup of Nations,Tunis,Tunisia,True
-2004-01-30,Senegal,Kenya,3,0,3,1,African Cup of Nations,Bizerte,Tunisia,True
-2004-01-31,Morocco,Benin,4,0,4,1,African Cup of Nations,Sfax,Tunisia,True
-2004-01-31,Nigeria,South Africa,4,0,4,1,African Cup of Nations,Monastir,Tunisia,True
-2004-02-01,Rwanda,DR Congo,1,0,1,1,African Cup of Nations,Bizerte,Tunisia,True
-2004-02-01,Tunisia,Guinea,1,1,0,0,African Cup of Nations,Radès,Tunisia,False
-2004-02-02,Burkina Faso,Kenya,0,3,-3,2,African Cup of Nations,Bizerte,Tunisia,True
-2004-02-02,Senegal,Mali,1,1,0,0,African Cup of Nations,Tunis,Tunisia,True
-2004-02-03,Algeria,Zimbabwe,1,2,-1,2,African Cup of Nations,Sousse,Tunisia,True
-2004-02-03,Cameroon,Egypt,0,0,0,0,African Cup of Nations,Monastir,Tunisia,True
-2004-02-04,Morocco,South Africa,1,1,0,0,African Cup of Nations,Sousse,Tunisia,True
-2004-02-04,Nigeria,Benin,2,1,1,1,African Cup of Nations,Sfax,Tunisia,True
-2004-02-07,Mali,Guinea,2,1,1,1,African Cup of Nations,Tunis,Tunisia,True
-2004-02-07,Tunisia,Senegal,1,0,1,1,African Cup of Nations,Radès,Tunisia,False
-2004-02-08,Cameroon,Nigeria,1,2,-1,2,African Cup of Nations,Monastir,Tunisia,True
-2004-02-08,Morocco,Algeria,3,1,2,1,African Cup of Nations,Sfax,Tunisia,True
-2004-02-11,Morocco,Mali,4,0,4,1,African Cup of Nations,Sousse,Tunisia,True
-2004-02-11,Tunisia,Nigeria,1,1,0,0,African Cup of Nations,Radès,Tunisia,False
-2004-02-13,Nigeria,Mali,2,1,1,1,African Cup of Nations,Monastir,Tunisia,True
-2004-02-14,Tunisia,Morocco,2,1,1,1,African Cup of Nations,Radès,Tunisia,False
-2006-01-20,Egypt,Libya,3,0,3,1,African Cup of Nations,Cairo,Egypt,False
-2006-01-21,Cameroon,Angola,3,1,2,1,African Cup of Nations,Cairo,Egypt,True
-2006-01-21,Morocco,Ivory Coast,0,1,-1,2,African Cup of Nations,Cairo,Egypt,True
-2006-01-21,Togo,DR Congo,0,2,-2,2,African Cup of Nations,Cairo,Egypt,True
-2006-01-22,South Africa,Guinea,0,2,-2,2,African Cup of Nations,Alexandria,Egypt,True
-2006-01-22,Tunisia,Zambia,4,1,3,1,African Cup of Nations,Alexandria,Egypt,True
-2006-01-23,Nigeria,Ghana,1,0,1,1,African Cup of Nations,Port Said,Egypt,True
-2006-01-23,Zimbabwe,Senegal,0,2,-2,2,African Cup of Nations,Port Said,Egypt,True
-2006-01-24,Egypt,Morocco,0,0,0,0,African Cup of Nations,Cairo,Egypt,False
-2006-01-24,Libya,Ivory Coast,1,2,-1,2,African Cup of Nations,Cairo,Egypt,True
-2006-01-25,Angola,DR Congo,0,0,0,0,African Cup of Nations,Cairo,Egypt,True
-2006-01-25,Cameroon,Togo,2,0,2,1,African Cup of Nations,Cairo,Egypt,True
-2006-01-26,Tunisia,South Africa,2,0,2,1,African Cup of Nations,Alexandria,Egypt,True
-2006-01-26,Zambia,Guinea,1,2,-1,2,African Cup of Nations,Alexandria,Egypt,True
-2006-01-27,Ghana,Senegal,1,0,1,1,African Cup of Nations,Port Said,Egypt,True
-2006-01-27,Nigeria,Zimbabwe,2,0,2,1,African Cup of Nations,Port Said,Egypt,True
-2006-01-28,Egypt,Ivory Coast,3,1,2,1,African Cup of Nations,Cairo,Egypt,False
-2006-01-28,Libya,Morocco,0,0,0,0,African Cup of Nations,Cairo,Egypt,True
-2006-01-29,Angola,Togo,3,2,1,1,African Cup of Nations,Cairo,Egypt,True
-2006-01-29,Cameroon,DR Congo,2,0,2,1,African Cup of Nations,Cairo,Egypt,True
-2006-01-30,Tunisia,Guinea,0,3,-3,2,African Cup of Nations,Alexandria,Egypt,True
-2006-01-30,Zambia,South Africa,1,0,1,1,African Cup of Nations,Alexandria,Egypt,True
-2006-01-31,Ghana,Zimbabwe,1,2,-1,2,African Cup of Nations,Ismaila,Egypt,True
-2006-01-31,Nigeria,Senegal,2,1,1,1,African Cup of Nations,Port Said,Egypt,True
-2006-02-03,Egypt,DR Congo,4,1,3,1,African Cup of Nations,Cairo,Egypt,False
-2006-02-03,Guinea,Senegal,2,3,-1,2,African Cup of Nations,Alexandria,Egypt,True
-2006-02-04,Cameroon,Ivory Coast,1,1,0,0,African Cup of Nations,Cairo,Egypt,True
-2006-02-04,Nigeria,Tunisia,1,1,0,0,African Cup of Nations,Port Said,Egypt,True
-2006-02-07,Egypt,Senegal,2,1,1,1,African Cup of Nations,Cairo,Egypt,False
-2006-02-07,Nigeria,Ivory Coast,0,1,-1,2,African Cup of Nations,Alexandria,Egypt,True
-2006-02-09,Senegal,Nigeria,0,1,-1,2,African Cup of Nations,Cairo,Egypt,True
-2006-02-10,Egypt,Ivory Coast,0,0,0,0,African Cup of Nations,Cairo,Egypt,False
-2008-01-20,Ghana,Guinea,2,1,1,1,African Cup of Nations,Accra,Ghana,False
-2008-01-21,Mali,Benin,1,0,1,1,African Cup of Nations,Sekondi,Ghana,True
-2008-01-21,Namibia,Morocco,1,5,-4,2,African Cup of Nations,Accra,Ghana,True
-2008-01-21,Nigeria,Ivory Coast,0,1,-1,2,African Cup of Nations,Sekondi,Ghana,True
-2008-01-22,Egypt,Cameroon,4,2,2,1,African Cup of Nations,Kumasi,Ghana,True
-2008-01-22,Sudan,Zambia,0,3,-3,2,African Cup of Nations,Kumasi,Ghana,True
-2008-01-23,South Africa,Angola,1,1,0,0,African Cup of Nations,Tamale,Ghana,True
-2008-01-23,Tunisia,Senegal,2,2,0,0,African Cup of Nations,Tamale,Ghana,True
-2008-01-24,Ghana,Namibia,1,0,1,1,African Cup of Nations,Accra,Ghana,False
-2008-01-24,Guinea,Morocco,3,2,1,1,African Cup of Nations,Accra,Ghana,True
-2008-01-25,Ivory Coast,Benin,4,1,3,1,African Cup of Nations,Sekondi,Ghana,True
-2008-01-25,Nigeria,Mali,0,0,0,0,African Cup of Nations,Sekondi,Ghana,True
-2008-01-26,Cameroon,Zambia,5,1,4,1,African Cup of Nations,Kumasi,Ghana,True
-2008-01-26,Egypt,Sudan,3,0,3,1,African Cup of Nations,Kumasi,Ghana,True
-2008-01-27,Senegal,Angola,1,3,-2,2,African Cup of Nations,Tamale,Ghana,True
-2008-01-27,Tunisia,South Africa,3,1,2,1,African Cup of Nations,Tamale,Ghana,True
-2008-01-28,Ghana,Morocco,2,0,2,1,African Cup of Nations,Accra,Ghana,False
-2008-01-28,Guinea,Namibia,1,1,0,0,African Cup of Nations,Sekondi,Ghana,True
-2008-01-29,Ivory Coast,Mali,3,0,3,1,African Cup of Nations,Accra,Ghana,True
-2008-01-29,Nigeria,Benin,2,0,2,1,African Cup of Nations,Sekondi,Ghana,True
-2008-01-30,Cameroon,Sudan,3,0,3,1,African Cup of Nations,Tamale,Ghana,True
-2008-01-30,Egypt,Zambia,1,1,0,0,African Cup of Nations,Kumasi,Ghana,True
-2008-01-31,Senegal,South Africa,1,1,0,0,African Cup of Nations,Kumasi,Ghana,True
-2008-01-31,Tunisia,Angola,0,0,0,0,African Cup of Nations,Tamale,Ghana,True
-2008-02-03,Ghana,Nigeria,2,1,1,1,African Cup of Nations,Accra,Ghana,False
-2008-02-03,Ivory Coast,Guinea,5,0,5,1,African Cup of Nations,Sekondi,Ghana,True
-2008-02-04,Egypt,Angola,2,1,1,1,African Cup of Nations,Kumasi,Ghana,True
-2008-02-04,Tunisia,Cameroon,2,3,-1,2,African Cup of Nations,Tamale,Ghana,True
-2008-02-07,Ghana,Cameroon,0,1,-1,2,African Cup of Nations,Accra,Ghana,False
-2008-02-07,Ivory Coast,Egypt,1,4,-3,2,African Cup of Nations,Kumasi,Ghana,True
-2008-02-09,Ghana,Ivory Coast,4,2,2,1,African Cup of Nations,Kumasi,Ghana,False
-2008-02-10,Cameroon,Egypt,0,1,-1,2,African Cup of Nations,Accra,Ghana,True
-2010-01-10,Angola,Mali,4,4,0,0,African Cup of Nations,Luanda,Angola,False
-2010-01-11,Ivory Coast,Burkina Faso,0,0,0,0,African Cup of Nations,Cabinda,Angola,True
-2010-01-11,Malawi,Algeria,3,0,3,1,African Cup of Nations,Luanda,Angola,True
-2010-01-12,Egypt,Nigeria,3,1,2,1,African Cup of Nations,Benguela,Angola,True
-2010-01-12,Mozambique,Benin,2,2,0,0,African Cup of Nations,Benguela,Angola,True
-2010-01-13,Cameroon,Gabon,0,1,-1,2,African Cup of Nations,Lubango,Angola,True
-2010-01-13,Zambia,Tunisia,1,1,0,0,African Cup of Nations,Lubango,Angola,True
-2010-01-14,Angola,Malawi,2,0,2,1,African Cup of Nations,Luanda,Angola,False
-2010-01-14,Mali,Algeria,0,1,-1,2,African Cup of Nations,Luanda,Angola,True
-2010-01-15,Ivory Coast,Ghana,3,1,2,1,African Cup of Nations,Cabinda,Angola,True
-2010-01-16,Egypt,Mozambique,2,0,2,1,African Cup of Nations,Benguela,Angola,True
-2010-01-16,Nigeria,Benin,1,0,1,1,African Cup of Nations,Benguela,Angola,True
-2010-01-17,Cameroon,Zambia,3,2,1,1,African Cup of Nations,Lubango,Angola,True
-2010-01-17,Gabon,Tunisia,0,0,0,0,African Cup of Nations,Lubango,Angola,True
-2010-01-18,Angola,Algeria,0,0,0,0,African Cup of Nations,Luanda,Angola,False
-2010-01-18,Mali,Malawi,3,1,2,1,African Cup of Nations,Cabinda,Angola,True
-2010-01-19,Burkina Faso,Ghana,0,1,-1,2,African Cup of Nations,Luanda,Angola,True
-2010-01-20,Egypt,Benin,2,0,2,1,African Cup of Nations,Benguela,Angola,True
-2010-01-20,Nigeria,Mozambique,3,0,3,1,African Cup of Nations,Lubango,Angola,True
-2010-01-21,Cameroon,Tunisia,2,2,0,0,African Cup of Nations,Lubango,Angola,True
-2010-01-21,Gabon,Zambia,1,2,-1,2,African Cup of Nations,Benguela,Angola,True
-2010-01-24,Angola,Ghana,0,1,-1,2,African Cup of Nations,Luanda,Angola,False
-2010-01-24,Ivory Coast,Algeria,2,3,-1,2,African Cup of Nations,Cabinda,Angola,True
-2010-01-25,Egypt,Cameroon,3,1,2,1,African Cup of Nations,Benguela,Angola,True
-2010-01-25,Zambia,Nigeria,0,0,0,0,African Cup of Nations,Lubango,Angola,True
-2010-01-28,Algeria,Egypt,0,4,-4,2,African Cup of Nations,Benguela,Angola,True
-2010-01-28,Ghana,Nigeria,1,0,1,1,African Cup of Nations,Luanda,Angola,True
-2010-01-30,Nigeria,Algeria,1,0,1,1,African Cup of Nations,Benguela,Angola,True
-2010-01-31,Ghana,Egypt,0,1,-1,2,African Cup of Nations,Luanda,Angola,True
-2012-01-21,Equatorial Guinea,Libya,1,0,1,1,African Cup of Nations,Bata,Equatorial Guinea,False
-2012-01-21,Senegal,Zambia,1,2,-1,2,African Cup of Nations,Bata,Equatorial Guinea,True
-2012-01-22,Burkina Faso,Angola,1,2,-1,2,African Cup of Nations,Malabo,Equatorial Guinea,True
-2012-01-22,Ivory Coast,Sudan,1,0,1,1,African Cup of Nations,Malabo,Equatorial Guinea,True
-2012-01-23,Gabon,Niger,2,0,2,1,African Cup of Nations,Libreville,Gabon,False
-2012-01-23,Morocco,Tunisia,1,2,-1,2,African Cup of Nations,Libreville,Gabon,True
-2012-01-24,Ghana,Botswana,1,0,1,1,African Cup of Nations,Franceville,Gabon,True
-2012-01-24,Mali,Guinea,1,0,1,1,African Cup of Nations,Franceville,Gabon,True
-2012-01-25,Equatorial Guinea,Senegal,2,1,1,1,African Cup of Nations,Bata,Equatorial Guinea,False
-2012-01-25,Libya,Zambia,2,2,0,0,African Cup of Nations,Bata,Equatorial Guinea,True
-2012-01-26,Ivory Coast,Burkina Faso,2,0,2,1,African Cup of Nations,Malabo,Equatorial Guinea,True
-2012-01-26,Sudan,Angola,2,2,0,0,African Cup of Nations,Malabo,Equatorial Guinea,True
-2012-01-27,Gabon,Morocco,3,2,1,1,African Cup of Nations,Libreville,Gabon,False
-2012-01-27,Niger,Tunisia,1,2,-1,2,African Cup of Nations,Libreville,Gabon,True
-2012-01-28,Botswana,Guinea,1,6,-5,2,African Cup of Nations,Franceville,Gabon,True
-2012-01-28,Ghana,Mali,2,0,2,1,African Cup of Nations,Franceville,Gabon,True
-2012-01-29,Equatorial Guinea,Zambia,0,1,-1,2,African Cup of Nations,Malabo,Equatorial Guinea,False
-2012-01-29,Libya,Senegal,2,1,1,1,African Cup of Nations,Bata,Equatorial Guinea,True
-2012-01-30,Ivory Coast,Angola,2,0,2,1,African Cup of Nations,Malabo,Equatorial Guinea,True
-2012-01-30,Sudan,Burkina Faso,2,1,1,1,African Cup of Nations,Bata,Equatorial Guinea,True
-2012-01-31,Gabon,Tunisia,1,0,1,1,African Cup of Nations,Franceville,Gabon,False
-2012-01-31,Niger,Morocco,0,1,-1,2,African Cup of Nations,Libreville,Gabon,True
-2012-02-01,Botswana,Mali,1,2,-1,2,African Cup of Nations,Libreville,Gabon,True
-2012-02-01,Ghana,Guinea,1,1,0,0,African Cup of Nations,Franceville,Gabon,True
-2012-02-04,Equatorial Guinea,Ivory Coast,0,3,-3,2,African Cup of Nations,Malabo,Equatorial Guinea,False
-2012-02-04,Zambia,Sudan,3,0,3,1,African Cup of Nations,Bata,Equatorial Guinea,True
-2012-02-05,Gabon,Mali,1,1,0,0,African Cup of Nations,Libreville,Gabon,False
-2012-02-05,Ghana,Tunisia,2,1,1,1,African Cup of Nations,Franceville,Gabon,True
-2012-02-08,Mali,Ivory Coast,0,1,-1,2,African Cup of Nations,Libreville,Gabon,True
-2012-02-08,Zambia,Ghana,1,0,1,1,African Cup of Nations,Bata,Equatorial Guinea,True
-2012-02-11,Ghana,Mali,0,2,-2,2,African Cup of Nations,Malabo,Equatorial Guinea,True
-2012-02-12,Zambia,Ivory Coast,0,0,0,0,African Cup of Nations,Libreville,Gabon,True
-2013-01-19,Angola,Morocco,0,0,0,0,African Cup of Nations,Johannesburg,South Africa,True
-2013-01-19,South Africa,Cape Verde,0,0,0,0,African Cup of Nations,Johannesburg,South Africa,False
-2013-01-20,Ghana,DR Congo,2,2,0,0,African Cup of Nations,Port Elizabeth,South Africa,True
-2013-01-20,Mali,Niger,1,0,1,1,African Cup of Nations,Port Elizabeth,South Africa,True
-2013-01-21,Nigeria,Burkina Faso,1,1,0,0,African Cup of Nations,Nelspruit,South Africa,True
-2013-01-21,Zambia,Ethiopia,1,1,0,0,African Cup of Nations,Nelspruit,South Africa,True
-2013-01-22,Ivory Coast,Togo,2,1,1,1,African Cup of Nations,Rustenburg,South Africa,True
-2013-01-22,Tunisia,Algeria,1,0,1,1,African Cup of Nations,Rustenburg,South Africa,True
-2013-01-23,Morocco,Cape Verde,1,1,0,0,African Cup of Nations,Durban,South Africa,True
-2013-01-23,South Africa,Angola,2,0,2,1,African Cup of Nations,Durban,South Africa,False
-2013-01-24,Ghana,Mali,1,0,1,1,African Cup of Nations,Port Elizabeth,South Africa,True
-2013-01-24,Niger,DR Congo,0,0,0,0,African Cup of Nations,Port Elizabeth,South Africa,True
-2013-01-25,Burkina Faso,Ethiopia,4,0,4,1,African Cup of Nations,Nelspruit,South Africa,True
-2013-01-25,Zambia,Nigeria,1,1,0,0,African Cup of Nations,Nelspruit,South Africa,True
-2013-01-26,Algeria,Togo,0,2,-2,2,African Cup of Nations,Rustenburg,South Africa,True
-2013-01-26,Ivory Coast,Tunisia,3,0,3,1,African Cup of Nations,Rustenburg,South Africa,True
-2013-01-27,Cape Verde,Angola,2,1,1,1,African Cup of Nations,Port Elizabeth,South Africa,True
-2013-01-27,South Africa,Morocco,2,2,0,0,African Cup of Nations,Durban,South Africa,False
-2013-01-28,DR Congo,Mali,1,1,0,0,African Cup of Nations,Durban,South Africa,True
-2013-01-28,Niger,Ghana,0,3,-3,2,African Cup of Nations,Port Elizabeth,South Africa,True
-2013-01-29,Burkina Faso,Zambia,0,0,0,0,African Cup of Nations,Nelspruit,South Africa,True
-2013-01-29,Ethiopia,Nigeria,0,2,-2,2,African Cup of Nations,Rustenburg,South Africa,True
-2013-01-30,Algeria,Ivory Coast,2,2,0,0,African Cup of Nations,Rustenburg,South Africa,True
-2013-01-30,Togo,Tunisia,1,1,0,0,African Cup of Nations,Nelspruit,South Africa,True
-2013-02-02,Ghana,Cape Verde,2,0,2,1,African Cup of Nations,Port Elizabeth,South Africa,True
-2013-02-02,South Africa,Mali,1,1,0,0,African Cup of Nations,Durban,South Africa,False
-2013-02-03,Burkina Faso,Togo,1,0,1,1,African Cup of Nations,Nelspruit,South Africa,True
-2013-02-03,Ivory Coast,Nigeria,1,2,-1,2,African Cup of Nations,Rustenburg,South Africa,True
-2013-02-06,Burkina Faso,Ghana,1,1,0,0,African Cup of Nations,Nelspruit,South Africa,True
-2013-02-06,Mali,Nigeria,1,4,-3,2,African Cup of Nations,Durban,South Africa,True
-2013-02-09,Mali,Ghana,3,1,2,1,African Cup of Nations,Port Elizabeth,South Africa,True
-2013-02-10,Nigeria,Burkina Faso,1,0,1,1,African Cup of Nations,Johannesburg,South Africa,True
-2015-01-17,Burkina Faso,Gabon,0,2,-2,2,African Cup of Nations,Bata,Equatorial Guinea,True
-2015-01-17,Equatorial Guinea,Congo,1,1,0,0,African Cup of Nations,Bata,Equatorial Guinea,False
-2015-01-18,Tunisia,Cape Verde,1,1,0,0,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
-2015-01-18,Zambia,DR Congo,1,1,0,0,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
-2015-01-19,Algeria,South Africa,3,1,2,1,African Cup of Nations,Mongomo,Equatorial Guinea,True
-2015-01-19,Ghana,Senegal,1,2,-1,2,African Cup of Nations,Mongomo,Equatorial Guinea,True
-2015-01-20,Ivory Coast,Guinea,1,1,0,0,African Cup of Nations,Malabo,Equatorial Guinea,True
-2015-01-20,Mali,Cameroon,1,1,0,0,African Cup of Nations,Malabo,Equatorial Guinea,True
-2015-01-21,Equatorial Guinea,Burkina Faso,0,0,0,0,African Cup of Nations,Bata,Equatorial Guinea,False
-2015-01-21,Gabon,Congo,0,1,-1,2,African Cup of Nations,Bata,Equatorial Guinea,True
-2015-01-22,Cape Verde,DR Congo,0,0,0,0,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
-2015-01-22,Zambia,Tunisia,1,2,-1,2,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
-2015-01-23,Ghana,Algeria,1,0,1,1,African Cup of Nations,Mongomo,Equatorial Guinea,True
-2015-01-23,South Africa,Senegal,1,1,0,0,African Cup of Nations,Mongomo,Equatorial Guinea,True
-2015-01-24,Cameroon,Guinea,1,1,0,0,African Cup of Nations,Malabo,Equatorial Guinea,True
-2015-01-24,Ivory Coast,Mali,1,1,0,0,African Cup of Nations,Malabo,Equatorial Guinea,True
-2015-01-25,Congo,Burkina Faso,2,1,1,1,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
-2015-01-25,Equatorial Guinea,Gabon,2,0,2,1,African Cup of Nations,Bata,Equatorial Guinea,False
-2015-01-26,Cape Verde,Zambia,0,0,0,0,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
-2015-01-26,DR Congo,Tunisia,1,1,0,0,African Cup of Nations,Bata,Equatorial Guinea,True
-2015-01-27,Senegal,Algeria,0,2,-2,2,African Cup of Nations,Malabo,Equatorial Guinea,True
-2015-01-27,South Africa,Ghana,1,2,-1,2,African Cup of Nations,Mongomo,Equatorial Guinea,True
-2015-01-28,Cameroon,Ivory Coast,0,1,-1,2,African Cup of Nations,Malabo,Equatorial Guinea,True
-2015-01-28,Guinea,Mali,1,1,0,0,African Cup of Nations,Mongomo,Equatorial Guinea,True
-2015-01-31,Congo,DR Congo,2,4,-2,2,African Cup of Nations,Bata,Equatorial Guinea,True
-2015-01-31,Equatorial Guinea,Tunisia,2,1,1,1,African Cup of Nations,Bata,Equatorial Guinea,False
-2015-02-01,Ghana,Guinea,3,0,3,1,African Cup of Nations,Malabo,Equatorial Guinea,True
-2015-02-01,Ivory Coast,Algeria,3,1,2,1,African Cup of Nations,Malabo,Equatorial Guinea,True
-2015-02-04,DR Congo,Ivory Coast,1,3,-2,2,African Cup of Nations,Bata,Equatorial Guinea,True
-2015-02-05,Equatorial Guinea,Ghana,0,3,-3,2,African Cup of Nations,Malabo,Equatorial Guinea,False
-2015-02-07,Equatorial Guinea,DR Congo,0,0,0,0,African Cup of Nations,Malabo,Equatorial Guinea,False
-2015-02-08,Ivory Coast,Ghana,0,0,0,0,African Cup of Nations,Bata,Equatorial Guinea,True
-2017-01-14,Burkina Faso,Cameroon,1,1,0,0,African Cup of Nations,Libreville,Gabon,True
-2017-01-14,Gabon,Guinea-Bissau,1,1,0,0,African Cup of Nations,Libreville,Gabon,False
-2017-01-15,Algeria,Zimbabwe,2,2,0,0,African Cup of Nations,Franceville,Gabon,True
-2017-01-15,Tunisia,Senegal,0,2,-2,2,African Cup of Nations,Franceville,Gabon,True
-2017-01-16,DR Congo,Morocco,1,0,1,1,African Cup of Nations,Oyem,Gabon,True
-2017-01-16,Ivory Coast,Togo,0,0,0,0,African Cup of Nations,Oyem,Gabon,True
-2017-01-17,Ghana,Uganda,1,0,1,1,African Cup of Nations,Port-Gentil,Gabon,True
-2017-01-17,Mali,Egypt,0,0,0,0,African Cup of Nations,Port-Gentil,Gabon,True
-2017-01-18,Cameroon,Guinea-Bissau,2,1,1,1,African Cup of Nations,Libreville,Gabon,True
-2017-01-18,Gabon,Burkina Faso,1,1,0,0,African Cup of Nations,Libreville,Gabon,False
-2017-01-19,Algeria,Tunisia,1,2,-1,2,African Cup of Nations,Franceville,Gabon,True
-2017-01-19,Senegal,Zimbabwe,2,0,2,1,African Cup of Nations,Franceville,Gabon,True
-2017-01-20,Ivory Coast,DR Congo,2,2,0,0,African Cup of Nations,Oyem,Gabon,True
-2017-01-20,Morocco,Togo,3,1,2,1,African Cup of Nations,Oyem,Gabon,True
-2017-01-21,Egypt,Uganda,1,0,1,1,African Cup of Nations,Port-Gentil,Gabon,True
-2017-01-21,Ghana,Mali,1,0,1,1,African Cup of Nations,Port-Gentil,Gabon,True
-2017-01-22,Gabon,Cameroon,0,0,0,0,African Cup of Nations,Libreville,Gabon,False
-2017-01-22,Guinea-Bissau,Burkina Faso,0,2,-2,2,African Cup of Nations,Franceville,Gabon,True
-2017-01-23,Senegal,Algeria,2,2,0,0,African Cup of Nations,Franceville,Gabon,True
-2017-01-23,Zimbabwe,Tunisia,2,4,-2,2,African Cup of Nations,Libreville,Gabon,True
-2017-01-24,Morocco,Ivory Coast,1,0,1,1,African Cup of Nations,Oyem,Gabon,True
-2017-01-24,Togo,DR Congo,1,3,-2,2,African Cup of Nations,Port-Gentil,Gabon,True
-2017-01-25,Egypt,Ghana,1,0,1,1,African Cup of Nations,Port-Gentil,Gabon,True
-2017-01-25,Uganda,Mali,1,1,0,0,African Cup of Nations,Oyem,Gabon,True
-2017-01-28,Burkina Faso,Tunisia,2,0,2,1,African Cup of Nations,Libreville,Gabon,True
-2017-01-28,Senegal,Cameroon,0,0,0,0,African Cup of Nations,Franceville,Gabon,True
-2017-01-29,DR Congo,Ghana,1,2,-1,2,African Cup of Nations,Oyem,Gabon,True
-2017-01-29,Egypt,Morocco,1,0,1,1,African Cup of Nations,Port-Gentil,Gabon,True
-2017-02-01,Burkina Faso,Egypt,1,1,0,0,African Cup of Nations,Libreville,Gabon,True
-2017-02-02,Cameroon,Ghana,2,0,2,1,African Cup of Nations,Franceville,Gabon,True
-2017-02-04,Burkina Faso,Ghana,1,0,1,1,African Cup of Nations,Port-Gentil,Gabon,True
-2017-02-05,Egypt,Cameroon,1,2,-1,2,African Cup of Nations,Libreville,Gabon,True
-2019-06-21,Egypt,Zimbabwe,1,0,1,1,African Cup of Nations,Cairo,Egypt,False
-2019-06-22,DR Congo,Uganda,0,2,-2,2,African Cup of Nations,Cairo,Egypt,True
-2019-06-22,Nigeria,Burundi,1,0,1,1,African Cup of Nations,Alexandria,Egypt,True
-2019-06-22,Guinea,Madagascar,2,2,0,0,African Cup of Nations,Alexandria,Egypt,True
-2019-06-23,Senegal,Tanzania,2,0,2,1,African Cup of Nations,Cairo,Egypt,True
-2019-06-23,Algeria,Kenya,2,0,2,1,African Cup of Nations,Cairo,Egypt,True
-2019-06-23,Morocco,Namibia,1,0,1,1,African Cup of Nations,Cairo,Egypt,True
-2019-06-24,Ivory Coast,South Africa,1,0,1,1,African Cup of Nations,Cairo,Egypt,True
-2019-06-24,Tunisia,Angola,1,1,0,0,African Cup of Nations,Suez,Egypt,True
-2019-06-24,Mali,Mauritania,4,1,3,1,African Cup of Nations,Suez,Egypt,True
-2019-06-25,Cameroon,Guinea-Bissau,2,0,2,1,African Cup of Nations,Ismaila,Egypt,True
-2019-06-25,Ghana,Benin,2,2,0,0,African Cup of Nations,Ismaila,Egypt,True
-2019-06-26,Uganda,Zimbabwe,1,1,0,0,African Cup of Nations,Cairo,Egypt,True
-2019-06-26,Egypt,DR Congo,2,0,2,1,African Cup of Nations,Cairo,Egypt,False
-2019-06-26,Nigeria,Guinea,1,0,1,1,African Cup of Nations,Alexandria,Egypt,True
-2019-06-27,Madagascar,Burundi,1,0,1,1,African Cup of Nations,Alexandria,Egypt,True
-2019-06-27,Senegal,Algeria,0,1,-1,2,African Cup of Nations,Cairo,Egypt,True
-2019-06-27,Kenya,Tanzania,3,2,1,1,African Cup of Nations,Cairo,Egypt,True
-2019-06-28,Morocco,Ivory Coast,1,0,1,1,African Cup of Nations,Cairo,Egypt,True
-2019-06-28,South Africa,Namibia,1,0,1,1,African Cup of Nations,Cairo,Egypt,True
-2019-06-28,Tunisia,Mali,1,1,0,0,African Cup of Nations,Suez,Egypt,True
-2019-06-29,Mauritania,Angola,0,0,0,0,African Cup of Nations,Suez,Egypt,True
-2019-06-29,Cameroon,Ghana,0,0,0,0,African Cup of Nations,Ismaila,Egypt,True
-2019-06-29,Benin,Guinea-Bissau,0,0,0,0,African Cup of Nations,Ismaila,Egypt,True
-2019-06-30,Egypt,Uganda,2,0,2,1,African Cup of Nations,Cairo,Egypt,False
-2019-06-30,Zimbabwe,DR Congo,0,4,-4,2,African Cup of Nations,Cairo,Egypt,True
-2019-06-30,Burundi,Guinea,0,2,-2,2,African Cup of Nations,Cairo,Egypt,True
-2019-06-30,Madagascar,Nigeria,2,0,2,1,African Cup of Nations,Alexandria,Egypt,True
-2019-07-01,Kenya,Senegal,0,3,-3,2,African Cup of Nations,Cairo,Egypt,True
-2019-07-01,Tanzania,Algeria,0,3,-3,2,African Cup of Nations,Cairo,Egypt,True
-2019-07-01,Namibia,Ivory Coast,1,4,-3,2,African Cup of Nations,Cairo,Egypt,True
-2019-07-01,South Africa,Morocco,0,1,-1,2,African Cup of Nations,Cairo,Egypt,True
-2019-07-02,Angola,Mali,0,1,-1,2,African Cup of Nations,Ismaila,Egypt,True
-2019-07-02,Mauritania,Tunisia,0,0,0,0,African Cup of Nations,Suez,Egypt,True
-2019-07-02,Benin,Cameroon,0,0,0,0,African Cup of Nations,Ismaila,Egypt,True
-2019-07-02,Guinea-Bissau,Ghana,0,2,-2,2,African Cup of Nations,Suez,Egypt,True
-2019-07-05,Morocco,Benin,1,1,0,0,African Cup of Nations,Cairo,Egypt,True
-2019-07-05,Uganda,Senegal,0,1,-1,2,African Cup of Nations,Cairo,Egypt,True
-2019-07-06,Egypt,South Africa,0,1,-1,2,African Cup of Nations,Cairo,Egypt,False
-2019-07-06,Nigeria,Cameroon,3,2,1,1,African Cup of Nations,Alexandria,Egypt,True
-2019-07-07,Algeria,Guinea,3,0,3,1,African Cup of Nations,Cairo,Egypt,True
-2019-07-07,Madagascar,DR Congo,2,2,0,0,African Cup of Nations,Alexandria,Egypt,True
-2019-07-08,Ghana,Tunisia,1,1,0,0,African Cup of Nations,Ismaila,Egypt,True
-2019-07-08,Mali,Ivory Coast,0,1,-1,2,African Cup of Nations,Suez,Egypt,True
-2019-07-10,Nigeria,South Africa,2,1,1,1,African Cup of Nations,Cairo,Egypt,True
-2019-07-10,Senegal,Benin,1,0,1,1,African Cup of Nations,Cairo,Egypt,True
-2019-07-11,Ivory Coast,Algeria,1,1,0,0,African Cup of Nations,Suez,Egypt,True
-2019-07-11,Madagascar,Tunisia,0,3,-3,2,African Cup of Nations,Cairo,Egypt,True
-2019-07-14,Algeria,Nigeria,2,1,1,1,African Cup of Nations,Cairo,Egypt,True
-2019-07-14,Senegal,Tunisia,1,0,1,1,African Cup of Nations,Cairo,Egypt,True
-2019-07-17,Tunisia,Nigeria,0,1,-1,2,African Cup of Nations,Cairo,Egypt,True
-2019-07-19,Senegal,Algeria,0,1,-1,2,African Cup of Nations,Cairo,Egypt,True
-2022-01-09,Cameroon,Burkina Faso,2,1,1,1,African Cup of Nations,Yaoundé,Cameroon,False
-2022-01-09,Ethiopia,Cape Verde,0,1,-1,2,African Cup of Nations,Yaoundé,Cameroon,True
-2022-01-10,Senegal,Zimbabwe,1,0,1,1,African Cup of Nations,Bafoussam,Cameroon,True
-2022-01-10,Guinea,Malawi,1,0,1,1,African Cup of Nations,Bafoussam,Cameroon,True
-2022-01-10,Morocco,Ghana,1,0,1,1,African Cup of Nations,Yaoundé,Cameroon,True
-2022-01-10,Comoros,Gabon,0,1,-1,2,African Cup of Nations,Yaoundé,Cameroon,True
-2022-01-11,Nigeria,Egypt,1,0,1,1,African Cup of Nations,Garoua,Cameroon,True
-2022-01-11,Sudan,Guinea-Bissau,0,0,0,0,African Cup of Nations,Garoua,Cameroon,True
-2022-01-11,Algeria,Sierra Leone,0,0,0,0,African Cup of Nations,Douala,Cameroon,True
-2022-01-12,Equatorial Guinea,Ivory Coast,0,1,-1,2,African Cup of Nations,Douala,Cameroon,True
-2022-01-12,Tunisia,Mali,0,1,-1,2,African Cup of Nations,Limbé,Cameroon,True
-2022-01-12,Mauritania,Gambia,0,1,-1,2,African Cup of Nations,Limbé,Cameroon,True
-2022-01-13,Cameroon,Ethiopia,4,1,3,1,African Cup of Nations,Yaoundé,Cameroon,False
-2022-01-13,Cape Verde,Burkina Faso,0,1,-1,2,African Cup of Nations,Yaoundé,Cameroon,True
-2022-01-14,Senegal,Guinea,0,0,0,0,African Cup of Nations,Bafoussam,Cameroon,True
-2022-01-14,Malawi,Zimbabwe,2,1,1,1,African Cup of Nations,Bafoussam,Cameroon,True
-2022-01-14,Morocco,Comoros,2,0,2,1,African Cup of Nations,Yaoundé,Cameroon,True
-2022-01-14,Gabon,Ghana,1,1,0,0,African Cup of Nations,Yaoundé,Cameroon,True
-2022-01-15,Nigeria,Sudan,3,1,2,1,African Cup of Nations,Garoua,Cameroon,True
-2022-01-15,Guinea-Bissau,Egypt,0,1,-1,2,African Cup of Nations,Garoua,Cameroon,True
-2022-01-16,Ivory Coast,Sierra Leone,2,2,0,0,African Cup of Nations,Douala,Cameroon,True
-2022-01-16,Algeria,Equatorial Guinea,0,1,-1,2,African Cup of Nations,Douala,Cameroon,True
-2022-01-16,Gambia,Mali,1,1,0,0,African Cup of Nations,Limbé,Cameroon,True
-2022-01-16,Tunisia,Mauritania,4,0,4,1,African Cup of Nations,Limbé,Cameroon,True
-2022-01-17,Burkina Faso,Ethiopia,1,1,0,0,African Cup of Nations,Bafoussam,Cameroon,True
-2022-01-17,Cameroon,Cape Verde,1,1,0,0,African Cup of Nations,Yaoundé,Cameroon,False
-2022-01-18,Malawi,Senegal,0,0,0,0,African Cup of Nations,Bafoussam,Cameroon,True
-2022-01-18,Zimbabwe,Guinea,2,1,1,1,African Cup of Nations,Yaoundé,Cameroon,True
-2022-01-18,Gabon,Morocco,2,2,0,0,African Cup of Nations,Yaoundé,Cameroon,True
-2022-01-18,Ghana,Comoros,2,3,-1,2,African Cup of Nations,Garoua,Cameroon,True
-2022-01-19,Egypt,Sudan,1,0,1,1,African Cup of Nations,Yaoundé,Cameroon,True
-2022-01-19,Guinea-Bissau,Nigeria,0,2,-2,2,African Cup of Nations,Garoua,Cameroon,True
-2022-01-20,Ivory Coast,Algeria,3,1,2,1,African Cup of Nations,Douala,Cameroon,True
-2022-01-20,Sierra Leone,Equatorial Guinea,0,1,-1,2,African Cup of Nations,Limbé,Cameroon,True
-2022-01-20,Gambia,Tunisia,1,0,1,1,African Cup of Nations,Limbé,Cameroon,True
-2022-01-20,Mali,Mauritania,2,0,2,1,African Cup of Nations,Douala,Cameroon,True
-2022-01-23,Burkina Faso,Gabon,1,1,0,0,African Cup of Nations,Limbé,Cameroon,True
-2022-01-23,Nigeria,Tunisia,0,1,-1,2,African Cup of Nations,Garoua,Cameroon,True
-2022-01-24,Cameroon,Comoros,2,1,1,1,African Cup of Nations,Yaoundé,Cameroon,False
-2022-01-24,Guinea,Gambia,0,1,-1,2,African Cup of Nations,Bafoussam,Cameroon,True
-2022-01-25,Morocco,Malawi,2,1,1,1,African Cup of Nations,Yaoundé,Cameroon,True
-2022-01-25,Senegal,Cape Verde,2,0,2,1,African Cup of Nations,Bafoussam,Cameroon,True
-2022-01-26,Ivory Coast,Egypt,0,0,0,0,African Cup of Nations,Douala,Cameroon,True
-2022-01-26,Mali,Equatorial Guinea,0,0,0,0,African Cup of Nations,Limbé,Cameroon,True
-2022-01-29,Burkina Faso,Tunisia,1,0,1,1,African Cup of Nations,Garoua,Cameroon,True
-2022-01-29,Cameroon,Gambia,2,0,2,1,African Cup of Nations,Douala,Cameroon,False
-2022-01-30,Egypt,Morocco,2,1,1,1,African Cup of Nations,Yaoundé,Cameroon,True
-2022-01-30,Senegal,Equatorial Guinea,3,1,2,1,African Cup of Nations,Yaoundé,Cameroon,True
-2022-02-02,Burkina Faso,Senegal,1,3,-2,2,African Cup of Nations,Yaoundé,Cameroon,True
-2022-02-03,Cameroon,Egypt,0,0,0,0,African Cup of Nations,Yaoundé,Cameroon,False
-2022-02-05,Cameroon,Burkina Faso,3,3,0,0,African Cup of Nations,Yaoundé,Cameroon,False
-2022-02-06,Senegal,Egypt,0,0,0,0,African Cup of Nations,Yaoundé,Cameroon,True
+1957-02-10,Sudan,Egypt,1.0,2.0,-1.0,2,African Cup of Nations,Khartoum,Sudan,False
+1957-02-16,Egypt,Ethiopia,4.0,0.0,4.0,1,African Cup of Nations,Khartoum,Sudan,True
+1959-05-22,Egypt,Ethiopia,4.0,0.0,4.0,1,African Cup of Nations,Cairo,United Arab Republic,True
+1959-05-25,Ethiopia,Sudan,0.0,1.0,-1.0,2,African Cup of Nations,Cairo,United Arab Republic,True
+1959-05-29,Egypt,Sudan,2.0,1.0,1.0,1,African Cup of Nations,Cairo,United Arab Republic,True
+1962-01-14,Ethiopia,Tunisia,4.0,2.0,2.0,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1962-01-18,Egypt,Uganda,2.0,1.0,1.0,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1962-01-20,Tunisia,Uganda,3.0,0.0,3.0,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1962-01-21,Ethiopia,Egypt,4.0,2.0,2.0,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1963-11-24,Egypt,Nigeria,6.0,3.0,3.0,1,African Cup of Nations,Kumasi,Ghana,True
+1963-11-24,Ghana,Tunisia,1.0,1.0,0.0,0,African Cup of Nations,Accra,Ghana,False
+1963-11-26,Egypt,Sudan,2.0,2.0,0.0,0,African Cup of Nations,Kumasi,Ghana,True
+1963-11-26,Ghana,Ethiopia,2.0,0.0,2.0,1,African Cup of Nations,Accra,Ghana,False
+1963-11-28,Ethiopia,Tunisia,4.0,2.0,2.0,1,African Cup of Nations,Accra,Ghana,True
+1963-11-28,Nigeria,Sudan,0.0,4.0,-4.0,2,African Cup of Nations,Kumasi,Ghana,True
+1963-11-30,Egypt,Ethiopia,3.0,0.0,3.0,1,African Cup of Nations,Accra,Ghana,True
+1963-12-01,Ghana,Sudan,3.0,0.0,3.0,1,African Cup of Nations,Accra,Ghana,False
+1965-11-12,DR Congo,Ghana,2.0,5.0,-3.0,2,African Cup of Nations,Sousse,Tunisia,True
+1965-11-12,Tunisia,Ethiopia,4.0,0.0,4.0,1,African Cup of Nations,Tunis,Tunisia,False
+1965-11-14,DR Congo,Ivory Coast,0.0,3.0,-3.0,2,African Cup of Nations,Sfax,Tunisia,True
+1965-11-14,Tunisia,Senegal,0.0,0.0,0.0,0,African Cup of Nations,Tunis,Tunisia,False
+1965-11-19,Ethiopia,Senegal,1.0,5.0,-4.0,2,African Cup of Nations,Tunis,Tunisia,True
+1965-11-19,Ghana,Ivory Coast,4.0,1.0,3.0,1,African Cup of Nations,Bizerte,Tunisia,True
+1965-11-21,Ivory Coast,Senegal,1.0,0.0,1.0,1,African Cup of Nations,Tunis,Tunisia,True
+1965-11-21,Tunisia,Ghana,2.0,3.0,-1.0,2,African Cup of Nations,Tunis,Tunisia,False
+1968-01-12,Algeria,Ivory Coast,0.0,3.0,-3.0,2,African Cup of Nations,Addis Ababa,Ethiopia,True
+1968-01-12,Congo,DR Congo,0.0,3.0,-3.0,2,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-12,Ethiopia,Uganda,2.0,1.0,1.0,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-01-12,Ghana,Senegal,2.0,2.0,0.0,0,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-14,Algeria,Uganda,4.0,0.0,4.0,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1968-01-14,Congo,Senegal,1.0,2.0,-1.0,2,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-14,DR Congo,Ghana,1.0,2.0,-1.0,2,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-14,Ethiopia,Ivory Coast,1.0,0.0,1.0,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-01-16,Congo,Ghana,1.0,3.0,-2.0,2,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-16,DR Congo,Senegal,2.0,1.0,1.0,1,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-16,Ethiopia,Algeria,3.0,1.0,2.0,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-01-16,Ivory Coast,Uganda,2.0,1.0,1.0,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1968-01-19,Ethiopia,DR Congo,2.0,3.0,-1.0,2,African Cup of Nations,Addis Ababa,Ethiopia,False
+1968-01-19,Ghana,Ivory Coast,4.0,3.0,1.0,1,African Cup of Nations,Asmara,Ethiopia,True
+1968-01-21,DR Congo,Ghana,1.0,0.0,1.0,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1968-01-21,Ethiopia,Ivory Coast,0.0,1.0,-1.0,2,African Cup of Nations,Addis Ababa,Ethiopia,False
+1970-02-06,Cameroon,Ivory Coast,3.0,2.0,1.0,1,African Cup of Nations,Khartoum,Sudan,True
+1970-02-06,Sudan,Ethiopia,3.0,0.0,3.0,1,African Cup of Nations,Khartoum,Sudan,False
+1970-02-07,DR Congo,Ghana,0.0,2.0,-2.0,2,African Cup of Nations,Wad Madani,Sudan,True
+1970-02-07,Egypt,Guinea,4.0,1.0,3.0,1,African Cup of Nations,Wad Madani,Sudan,True
+1970-02-08,Cameroon,Ethiopia,3.0,2.0,1.0,1,African Cup of Nations,Khartoum,Sudan,True
+1970-02-08,Sudan,Ivory Coast,0.0,1.0,-1.0,2,African Cup of Nations,Khartoum,Sudan,False
+1970-02-09,DR Congo,Guinea,2.0,2.0,0.0,0,African Cup of Nations,Wad Madani,Sudan,True
+1970-02-09,Egypt,Ghana,1.0,1.0,0.0,0,African Cup of Nations,Wad Madani,Sudan,True
+1970-02-10,Ethiopia,Ivory Coast,1.0,6.0,-5.0,2,African Cup of Nations,Khartoum,Sudan,True
+1970-02-10,Sudan,Cameroon,2.0,1.0,1.0,1,African Cup of Nations,Khartoum,Sudan,False
+1970-02-11,DR Congo,Egypt,0.0,1.0,-1.0,2,African Cup of Nations,Wad Madani,Sudan,True
+1970-02-11,Ghana,Guinea,1.0,1.0,0.0,0,African Cup of Nations,Wad Madani,Sudan,True
+1970-02-14,Ghana,Ivory Coast,2.0,1.0,1.0,1,African Cup of Nations,Khartoum,Sudan,True
+1970-02-14,Sudan,Egypt,2.0,1.0,1.0,1,African Cup of Nations,Khartoum,Sudan,False
+1970-02-16,Egypt,Ivory Coast,3.0,1.0,2.0,1,African Cup of Nations,Khartoum,Sudan,True
+1970-02-16,Sudan,Ghana,1.0,0.0,1.0,1,African Cup of Nations,Khartoum,Sudan,False
+1972-02-23,Cameroon,Kenya,2.0,1.0,1.0,1,African Cup of Nations,Yaoundé,Cameroon,False
+1972-02-24,Mali,Togo,3.0,3.0,0.0,0,African Cup of Nations,Yaoundé,Cameroon,True
+1972-02-25,Congo,Morocco,1.0,1.0,0.0,0,African Cup of Nations,Douala,Cameroon,True
+1972-02-25,Sudan,DR Congo,1.0,1.0,0.0,0,African Cup of Nations,Douala,Cameroon,True
+1972-02-26,Cameroon,Togo,2.0,0.0,2.0,1,African Cup of Nations,Yaoundé,Cameroon,False
+1972-02-26,Kenya,Mali,1.0,1.0,0.0,0,African Cup of Nations,Yaoundé,Cameroon,True
+1972-02-27,Congo,DR Congo,0.0,2.0,-2.0,2,African Cup of Nations,Douala,Cameroon,True
+1972-02-27,Morocco,Sudan,1.0,1.0,0.0,0,African Cup of Nations,Douala,Cameroon,True
+1972-02-28,Cameroon,Mali,1.0,1.0,0.0,0,African Cup of Nations,Yaoundé,Cameroon,False
+1972-02-28,Kenya,Togo,1.0,1.0,0.0,0,African Cup of Nations,Yaoundé,Cameroon,True
+1972-02-29,Congo,Sudan,4.0,2.0,2.0,1,African Cup of Nations,Douala,Cameroon,True
+1972-02-29,Morocco,DR Congo,1.0,1.0,0.0,0,African Cup of Nations,Douala,Cameroon,True
+1972-03-02,Cameroon,Congo,0.0,1.0,-1.0,2,African Cup of Nations,Yaoundé,Cameroon,False
+1972-03-02,Mali,DR Congo,4.0,3.0,1.0,1,African Cup of Nations,Douala,Cameroon,True
+1972-03-04,Cameroon,DR Congo,5.0,2.0,3.0,1,African Cup of Nations,Yaoundé,Cameroon,False
+1972-03-05,Congo,Mali,3.0,2.0,1.0,1,African Cup of Nations,Yaoundé,Cameroon,True
+1974-03-01,Egypt,Uganda,2.0,1.0,1.0,1,African Cup of Nations,Cairo,Egypt,False
+1974-03-02,Ivory Coast,Zambia,0.0,1.0,-1.0,2,African Cup of Nations,El Mahalla El Kubra,Egypt,True
+1974-03-03,Congo,Mauritius,2.0,0.0,2.0,1,African Cup of Nations,Alexandria,Egypt,True
+1974-03-03,Guinea,DR Congo,1.0,2.0,-1.0,2,African Cup of Nations,Damanhur,Egypt,True
+1974-03-04,Egypt,Zambia,3.0,1.0,2.0,1,African Cup of Nations,Cairo,Egypt,False
+1974-03-04,Ivory Coast,Uganda,2.0,2.0,0.0,0,African Cup of Nations,El Mahalla El Kubra,Egypt,True
+1974-03-05,Congo,DR Congo,2.0,1.0,1.0,1,African Cup of Nations,Alexandria,Egypt,True
+1974-03-05,Guinea,Mauritius,2.0,1.0,1.0,1,African Cup of Nations,Damanhur,Egypt,True
+1974-03-06,Egypt,Ivory Coast,2.0,0.0,2.0,1,African Cup of Nations,Cairo,Egypt,False
+1974-03-06,Uganda,Zambia,0.0,1.0,-1.0,2,African Cup of Nations,El Mahalla El Kubra,Egypt,True
+1974-03-07,Congo,Guinea,1.0,1.0,0.0,0,African Cup of Nations,Alexandria,Egypt,True
+1974-03-07,Mauritius,DR Congo,1.0,4.0,-3.0,2,African Cup of Nations,Damanhur,Egypt,True
+1974-03-09,Congo,Zambia,2.0,4.0,-2.0,2,African Cup of Nations,Alexandria,Egypt,True
+1974-03-09,Egypt,DR Congo,2.0,3.0,-1.0,2,African Cup of Nations,Cairo,Egypt,False
+1974-03-11,Egypt,Congo,4.0,0.0,4.0,1,African Cup of Nations,Cairo,Egypt,False
+1974-03-12,DR Congo,Zambia,2.0,2.0,0.0,0,African Cup of Nations,Cairo,Egypt,True
+1974-03-14,DR Congo,Zambia,2.0,0.0,2.0,1,African Cup of Nations,Cairo,Egypt,True
+1976-02-29,Egypt,Guinea,1.0,1.0,0.0,0,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-02-29,Ethiopia,Uganda,2.0,0.0,2.0,1,African Cup of Nations,Addis Ababa,Ethiopia,False
+1976-03-01,Morocco,Sudan,2.0,2.0,0.0,0,African Cup of Nations,Dire Dawa,Ethiopia,True
+1976-03-01,Nigeria,DR Congo,4.0,2.0,2.0,1,African Cup of Nations,Dire Dawa,Ethiopia,True
+1976-03-03,Egypt,Uganda,2.0,1.0,1.0,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-03,Ethiopia,Guinea,1.0,2.0,-1.0,2,African Cup of Nations,Addis Ababa,Ethiopia,False
+1976-03-04,Morocco,DR Congo,1.0,0.0,1.0,1,African Cup of Nations,Dire Dawa,Ethiopia,True
+1976-03-04,Nigeria,Sudan,1.0,0.0,1.0,1,African Cup of Nations,Dire Dawa,Ethiopia,True
+1976-03-05,Ethiopia,Egypt,1.0,1.0,0.0,0,African Cup of Nations,Addis Ababa,Ethiopia,False
+1976-03-05,Guinea,Uganda,2.0,1.0,1.0,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-06,Morocco,Nigeria,3.0,1.0,2.0,1,African Cup of Nations,Dire Dawa,Ethiopia,True
+1976-03-06,Sudan,DR Congo,1.0,1.0,0.0,0,African Cup of Nations,Dire Dawa,Ethiopia,True
+1976-03-09,Egypt,Morocco,1.0,2.0,-1.0,2,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-09,Guinea,Nigeria,1.0,1.0,0.0,0,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-11,Egypt,Guinea,2.0,4.0,-2.0,2,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-11,Morocco,Nigeria,2.0,1.0,1.0,1,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-14,Egypt,Nigeria,2.0,3.0,-1.0,2,African Cup of Nations,Addis Ababa,Ethiopia,True
+1976-03-14,Guinea,Morocco,1.0,1.0,0.0,0,African Cup of Nations,Addis Ababa,Ethiopia,True
+1978-03-05,Ghana,Zambia,2.0,1.0,1.0,1,African Cup of Nations,Accra,Ghana,False
+1978-03-05,Nigeria,Burkina Faso,4.0,2.0,2.0,1,African Cup of Nations,Accra,Ghana,True
+1978-03-06,Congo,Uganda,1.0,3.0,-2.0,2,African Cup of Nations,Kumasi,Ghana,True
+1978-03-06,Morocco,Tunisia,1.0,1.0,0.0,0,African Cup of Nations,Kumasi,Ghana,True
+1978-03-08,Burkina Faso,Zambia,0.0,2.0,-2.0,2,African Cup of Nations,Accra,Ghana,True
+1978-03-08,Ghana,Nigeria,1.0,1.0,0.0,0,African Cup of Nations,Accra,Ghana,False
+1978-03-09,Congo,Morocco,0.0,1.0,-1.0,2,African Cup of Nations,Kumasi,Ghana,True
+1978-03-09,Tunisia,Uganda,3.0,1.0,2.0,1,African Cup of Nations,Kumasi,Ghana,True
+1978-03-10,Ghana,Burkina Faso,3.0,0.0,3.0,1,African Cup of Nations,Accra,Ghana,False
+1978-03-10,Nigeria,Zambia,0.0,0.0,0.0,0,African Cup of Nations,Accra,Ghana,True
+1978-03-11,Congo,Tunisia,0.0,0.0,0.0,0,African Cup of Nations,Kumasi,Ghana,True
+1978-03-11,Morocco,Uganda,0.0,3.0,-3.0,2,African Cup of Nations,Kumasi,Ghana,True
+1978-03-14,Ghana,Tunisia,1.0,0.0,1.0,1,African Cup of Nations,Accra,Ghana,False
+1978-03-14,Nigeria,Uganda,1.0,2.0,-1.0,2,African Cup of Nations,Kumasi,Ghana,True
+1978-03-16,Ghana,Uganda,2.0,0.0,2.0,1,African Cup of Nations,Accra,Ghana,False
+1980-03-08,Egypt,Ivory Coast,2.0,1.0,1.0,1,African Cup of Nations,Lagos,Nigeria,True
+1980-03-08,Nigeria,Tanzania,3.0,1.0,2.0,1,African Cup of Nations,Lagos,Nigeria,False
+1980-03-09,Algeria,Ghana,0.0,0.0,0.0,0,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-09,Guinea,Morocco,1.0,1.0,0.0,0,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-12,Egypt,Tanzania,2.0,1.0,1.0,1,African Cup of Nations,Lagos,Nigeria,True
+1980-03-12,Nigeria,Ivory Coast,0.0,0.0,0.0,0,African Cup of Nations,Lagos,Nigeria,False
+1980-03-13,Algeria,Morocco,1.0,0.0,1.0,1,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-13,Ghana,Guinea,1.0,0.0,1.0,1,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-15,Ivory Coast,Tanzania,1.0,1.0,0.0,0,African Cup of Nations,Lagos,Nigeria,True
+1980-03-15,Nigeria,Egypt,1.0,0.0,1.0,1,African Cup of Nations,Lagos,Nigeria,False
+1980-03-16,Algeria,Guinea,3.0,2.0,1.0,1,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-16,Ghana,Morocco,0.0,1.0,-1.0,2,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-19,Algeria,Egypt,2.0,2.0,0.0,0,African Cup of Nations,Ibadan,Nigeria,True
+1980-03-19,Nigeria,Morocco,1.0,0.0,1.0,1,African Cup of Nations,Lagos,Nigeria,False
+1980-03-21,Egypt,Morocco,0.0,2.0,-2.0,2,African Cup of Nations,Lagos,Nigeria,True
+1980-03-22,Nigeria,Algeria,3.0,0.0,3.0,1,African Cup of Nations,Lagos,Nigeria,False
+1982-03-05,Cameroon,Tunisia,1.0,1.0,0.0,0,African Cup of Nations,Tripoli,Libya,True
+1982-03-05,Libya,Ghana,2.0,2.0,0.0,0,African Cup of Nations,Tripoli,Libya,False
+1982-03-07,Algeria,Zambia,1.0,0.0,1.0,1,African Cup of Nations,Benghazi,Libya,True
+1982-03-07,Ethiopia,Nigeria,0.0,3.0,-3.0,2,African Cup of Nations,Benghazi,Libya,True
+1982-03-09,Cameroon,Ghana,0.0,0.0,0.0,0,African Cup of Nations,Tripoli,Libya,True
+1982-03-09,Libya,Tunisia,2.0,0.0,2.0,1,African Cup of Nations,Tripoli,Libya,False
+1982-03-10,Algeria,Nigeria,2.0,1.0,1.0,1,African Cup of Nations,Benghazi,Libya,True
+1982-03-10,Ethiopia,Zambia,0.0,1.0,-1.0,2,African Cup of Nations,Benghazi,Libya,True
+1982-03-12,Ghana,Tunisia,1.0,0.0,1.0,1,African Cup of Nations,Tripoli,Libya,True
+1982-03-12,Libya,Cameroon,0.0,0.0,0.0,0,African Cup of Nations,Tripoli,Libya,False
+1982-03-13,Algeria,Ethiopia,0.0,0.0,0.0,0,African Cup of Nations,Benghazi,Libya,True
+1982-03-13,Nigeria,Zambia,0.0,3.0,-3.0,2,African Cup of Nations,Benghazi,Libya,True
+1982-03-16,Algeria,Ghana,2.0,3.0,-1.0,2,African Cup of Nations,Benghazi,Libya,True
+1982-03-16,Libya,Zambia,2.0,1.0,1.0,1,African Cup of Nations,Tripoli,Libya,False
+1982-03-18,Algeria,Zambia,0.0,2.0,-2.0,2,African Cup of Nations,Tripoli,Libya,True
+1982-03-19,Libya,Ghana,1.0,1.0,0.0,0,African Cup of Nations,Tripoli,Libya,False
+1984-03-04,Cameroon,Egypt,0.0,1.0,-1.0,2,African Cup of Nations,Abidjan,Ivory Coast,True
+1984-03-04,Ivory Coast,Togo,3.0,0.0,3.0,1,African Cup of Nations,Abidjan,Ivory Coast,False
+1984-03-05,Algeria,Malawi,3.0,0.0,3.0,1,African Cup of Nations,Bouaké,Ivory Coast,True
+1984-03-05,Ghana,Nigeria,1.0,2.0,-1.0,2,African Cup of Nations,Bouaké,Ivory Coast,True
+1984-03-07,Cameroon,Togo,4.0,1.0,3.0,1,African Cup of Nations,Abidjan,Ivory Coast,True
+1984-03-07,Ivory Coast,Egypt,1.0,2.0,-1.0,2,African Cup of Nations,Abidjan,Ivory Coast,False
+1984-03-08,Algeria,Ghana,2.0,0.0,2.0,1,African Cup of Nations,Bouaké,Ivory Coast,True
+1984-03-08,Malawi,Nigeria,2.0,2.0,0.0,0,African Cup of Nations,Bouaké,Ivory Coast,True
+1984-03-10,Egypt,Togo,0.0,0.0,0.0,0,African Cup of Nations,Abidjan,Ivory Coast,True
+1984-03-10,Ivory Coast,Cameroon,0.0,2.0,-2.0,2,African Cup of Nations,Abidjan,Ivory Coast,False
+1984-03-11,Algeria,Nigeria,0.0,0.0,0.0,0,African Cup of Nations,Bouaké,Ivory Coast,True
+1984-03-11,Ghana,Malawi,1.0,0.0,1.0,1,African Cup of Nations,Bouaké,Ivory Coast,True
+1984-03-14,Algeria,Cameroon,0.0,0.0,0.0,0,African Cup of Nations,Bouaké,Ivory Coast,True
+1984-03-14,Egypt,Nigeria,2.0,2.0,0.0,0,African Cup of Nations,Abidjan,Ivory Coast,True
+1984-03-17,Algeria,Egypt,3.0,1.0,2.0,1,African Cup of Nations,Abidjan,Ivory Coast,True
+1984-03-18,Cameroon,Nigeria,3.0,1.0,2.0,1,African Cup of Nations,Abidjan,Ivory Coast,True
+1986-03-07,Egypt,Senegal,0.0,1.0,-1.0,2,African Cup of Nations,Cairo,Egypt,False
+1986-03-07,Ivory Coast,Mozambique,3.0,0.0,3.0,1,African Cup of Nations,Cairo,Egypt,True
+1986-03-08,Algeria,Morocco,0.0,0.0,0.0,0,African Cup of Nations,Alexandria,Egypt,True
+1986-03-08,Cameroon,Zambia,3.0,2.0,1.0,1,African Cup of Nations,Alexandria,Egypt,True
+1986-03-10,Egypt,Ivory Coast,2.0,0.0,2.0,1,African Cup of Nations,Cairo,Egypt,False
+1986-03-10,Mozambique,Senegal,0.0,2.0,-2.0,2,African Cup of Nations,Cairo,Egypt,True
+1986-03-11,Algeria,Zambia,0.0,0.0,0.0,0,African Cup of Nations,Alexandria,Egypt,True
+1986-03-11,Cameroon,Morocco,1.0,1.0,0.0,0,African Cup of Nations,Alexandria,Egypt,True
+1986-03-13,Egypt,Mozambique,2.0,0.0,2.0,1,African Cup of Nations,Cairo,Egypt,False
+1986-03-13,Ivory Coast,Senegal,1.0,0.0,1.0,1,African Cup of Nations,Cairo,Egypt,True
+1986-03-14,Algeria,Cameroon,2.0,3.0,-1.0,2,African Cup of Nations,Alexandria,Egypt,True
+1986-03-14,Morocco,Zambia,1.0,0.0,1.0,1,African Cup of Nations,Alexandria,Egypt,True
+1986-03-17,Cameroon,Ivory Coast,1.0,0.0,1.0,1,African Cup of Nations,Alexandria,Egypt,True
+1986-03-17,Egypt,Morocco,1.0,0.0,1.0,1,African Cup of Nations,Cairo,Egypt,False
+1986-03-20,Ivory Coast,Morocco,3.0,2.0,1.0,1,African Cup of Nations,Cairo,Egypt,True
+1986-03-21,Egypt,Cameroon,0.0,0.0,0.0,0,African Cup of Nations,Cairo,Egypt,False
+1988-03-13,Algeria,Ivory Coast,1.0,1.0,0.0,0,African Cup of Nations,Casablanca,Morocco,True
+1988-03-13,Morocco,DR Congo,1.0,1.0,0.0,0,African Cup of Nations,Casablanca,Morocco,False
+1988-03-14,Cameroon,Egypt,1.0,0.0,1.0,1,African Cup of Nations,Rabat,Morocco,True
+1988-03-14,Kenya,Nigeria,0.0,3.0,-3.0,2,African Cup of Nations,Rabat,Morocco,True
+1988-03-16,Ivory Coast,DR Congo,1.0,1.0,0.0,0,African Cup of Nations,Casablanca,Morocco,True
+1988-03-16,Morocco,Algeria,1.0,0.0,1.0,1,African Cup of Nations,Casablanca,Morocco,False
+1988-03-17,Cameroon,Nigeria,1.0,1.0,0.0,0,African Cup of Nations,Rabat,Morocco,True
+1988-03-17,Egypt,Kenya,3.0,0.0,3.0,1,African Cup of Nations,Rabat,Morocco,True
+1988-03-19,Algeria,DR Congo,1.0,0.0,1.0,1,African Cup of Nations,Casablanca,Morocco,True
+1988-03-19,Morocco,Ivory Coast,0.0,0.0,0.0,0,African Cup of Nations,Casablanca,Morocco,False
+1988-03-20,Cameroon,Kenya,0.0,0.0,0.0,0,African Cup of Nations,Rabat,Morocco,True
+1988-03-20,Egypt,Nigeria,0.0,0.0,0.0,0,African Cup of Nations,Rabat,Morocco,True
+1988-03-23,Algeria,Nigeria,1.0,1.0,0.0,0,African Cup of Nations,Rabat,Morocco,True
+1988-03-23,Morocco,Cameroon,0.0,1.0,-1.0,2,African Cup of Nations,Casablanca,Morocco,False
+1988-03-26,Morocco,Algeria,1.0,1.0,0.0,0,African Cup of Nations,Casablanca,Morocco,False
+1988-03-27,Cameroon,Nigeria,1.0,0.0,1.0,1,African Cup of Nations,Casablanca,Morocco,True
+1990-03-02,Algeria,Nigeria,5.0,1.0,4.0,1,African Cup of Nations,Algiers,Algeria,False
+1990-03-02,Ivory Coast,Egypt,3.0,1.0,2.0,1,African Cup of Nations,Algiers,Algeria,True
+1990-03-03,Cameroon,Zambia,0.0,1.0,-1.0,2,African Cup of Nations,Annaba,Algeria,True
+1990-03-03,Senegal,Kenya,0.0,0.0,0.0,0,African Cup of Nations,Annaba,Algeria,True
+1990-03-05,Algeria,Ivory Coast,3.0,0.0,3.0,1,African Cup of Nations,Algiers,Algeria,False
+1990-03-05,Nigeria,Egypt,1.0,0.0,1.0,1,African Cup of Nations,Algiers,Algeria,True
+1990-03-06,Cameroon,Senegal,0.0,2.0,-2.0,2,African Cup of Nations,Annaba,Algeria,True
+1990-03-06,Zambia,Kenya,1.0,0.0,1.0,1,African Cup of Nations,Annaba,Algeria,True
+1990-03-08,Algeria,Egypt,2.0,0.0,2.0,1,African Cup of Nations,Algiers,Algeria,False
+1990-03-08,Nigeria,Ivory Coast,1.0,0.0,1.0,1,African Cup of Nations,Algiers,Algeria,True
+1990-03-09,Cameroon,Kenya,2.0,0.0,2.0,1,African Cup of Nations,Annaba,Algeria,True
+1990-03-09,Zambia,Senegal,0.0,0.0,0.0,0,African Cup of Nations,Annaba,Algeria,True
+1990-03-12,Algeria,Senegal,2.0,1.0,1.0,1,African Cup of Nations,Algiers,Algeria,False
+1990-03-12,Nigeria,Zambia,2.0,0.0,2.0,1,African Cup of Nations,Annaba,Algeria,True
+1990-03-15,Senegal,Zambia,0.0,1.0,-1.0,2,African Cup of Nations,Algiers,Algeria,True
+1990-03-16,Algeria,Nigeria,1.0,0.0,1.0,1,African Cup of Nations,Algiers,Algeria,False
+1992-01-12,Cameroon,Morocco,1.0,0.0,1.0,1,African Cup of Nations,Dakar,Senegal,True
+1992-01-12,Senegal,Nigeria,1.0,2.0,-1.0,2,African Cup of Nations,Dakar,Senegal,False
+1992-01-13,Algeria,Ivory Coast,0.0,3.0,-3.0,2,African Cup of Nations,Ziguinchor,Senegal,True
+1992-01-13,Egypt,Zambia,0.0,1.0,-1.0,2,African Cup of Nations,Ziguinchor,Senegal,True
+1992-01-14,Morocco,DR Congo,1.0,1.0,0.0,0,African Cup of Nations,Dakar,Senegal,True
+1992-01-14,Nigeria,Kenya,2.0,1.0,1.0,1,African Cup of Nations,Dakar,Senegal,True
+1992-01-15,Ivory Coast,Congo,0.0,0.0,0.0,0,African Cup of Nations,Ziguinchor,Senegal,True
+1992-01-15,Zambia,Ghana,0.0,1.0,-1.0,2,African Cup of Nations,Ziguinchor,Senegal,True
+1992-01-16,Cameroon,DR Congo,1.0,1.0,0.0,0,African Cup of Nations,Dakar,Senegal,True
+1992-01-16,Senegal,Kenya,3.0,0.0,3.0,1,African Cup of Nations,Dakar,Senegal,False
+1992-01-17,Algeria,Congo,1.0,1.0,0.0,0,African Cup of Nations,Ziguinchor,Senegal,True
+1992-01-17,Egypt,Ghana,0.0,1.0,-1.0,2,African Cup of Nations,Ziguinchor,Senegal,True
+1992-01-19,Nigeria,DR Congo,1.0,0.0,1.0,1,African Cup of Nations,Dakar,Senegal,True
+1992-01-19,Senegal,Cameroon,0.0,1.0,-1.0,2,African Cup of Nations,Dakar,Senegal,False
+1992-01-20,Ghana,Congo,2.0,1.0,1.0,1,African Cup of Nations,Dakar,Senegal,True
+1992-01-20,Ivory Coast,Zambia,1.0,0.0,1.0,1,African Cup of Nations,Dakar,Senegal,True
+1992-01-23,Cameroon,Ivory Coast,0.0,0.0,0.0,0,African Cup of Nations,Dakar,Senegal,True
+1992-01-23,Nigeria,Ghana,1.0,2.0,-1.0,2,African Cup of Nations,Dakar,Senegal,True
+1992-01-25,Cameroon,Nigeria,1.0,2.0,-1.0,2,African Cup of Nations,Dakar,Senegal,True
+1992-01-26,Ghana,Ivory Coast,0.0,0.0,0.0,0,African Cup of Nations,Dakar,Senegal,True
+1994-03-26,Nigeria,Gabon,3.0,0.0,3.0,1,African Cup of Nations,Tunis,Tunisia,True
+1994-03-26,Tunisia,Mali,0.0,2.0,-2.0,2,African Cup of Nations,Tunis,Tunisia,False
+1994-03-27,Ghana,Guinea,1.0,0.0,1.0,1,African Cup of Nations,Sousse,Tunisia,True
+1994-03-27,Ivory Coast,Sierra Leone,4.0,0.0,4.0,1,African Cup of Nations,Sousse,Tunisia,True
+1994-03-28,Egypt,Gabon,4.0,0.0,4.0,1,African Cup of Nations,Tunis,Tunisia,True
+1994-03-28,Mali,DR Congo,0.0,1.0,-1.0,2,African Cup of Nations,Tunis,Tunisia,True
+1994-03-29,Senegal,Guinea,2.0,1.0,1.0,1,African Cup of Nations,Sousse,Tunisia,True
+1994-03-29,Zambia,Sierra Leone,0.0,0.0,0.0,0,African Cup of Nations,Sousse,Tunisia,True
+1994-03-30,Nigeria,Egypt,0.0,0.0,0.0,0,African Cup of Nations,Tunis,Tunisia,True
+1994-03-30,Tunisia,DR Congo,1.0,1.0,0.0,0,African Cup of Nations,Tunis,Tunisia,False
+1994-03-31,Ghana,Senegal,1.0,0.0,1.0,1,African Cup of Nations,Sousse,Tunisia,True
+1994-03-31,Zambia,Ivory Coast,1.0,0.0,1.0,1,African Cup of Nations,Sousse,Tunisia,True
+1994-04-02,DR Congo,Nigeria,0.0,2.0,-2.0,2,African Cup of Nations,Tunis,Tunisia,True
+1994-04-02,Egypt,Mali,0.0,1.0,-1.0,2,African Cup of Nations,Tunis,Tunisia,True
+1994-04-03,Ghana,Ivory Coast,1.0,2.0,-1.0,2,African Cup of Nations,Sousse,Tunisia,True
+1994-04-03,Zambia,Senegal,1.0,0.0,1.0,1,African Cup of Nations,Sousse,Tunisia,True
+1994-04-06,Nigeria,Ivory Coast,2.0,2.0,0.0,0,African Cup of Nations,Tunis,Tunisia,True
+1994-04-06,Zambia,Mali,4.0,0.0,4.0,1,African Cup of Nations,Tunis,Tunisia,True
+1994-04-10,Ivory Coast,Mali,3.0,1.0,2.0,1,African Cup of Nations,Tunis,Tunisia,True
+1994-04-10,Nigeria,Zambia,2.0,1.0,1.0,1,African Cup of Nations,Tunis,Tunisia,True
+1996-01-13,South Africa,Cameroon,3.0,0.0,3.0,1,African Cup of Nations,Johannesburg,South Africa,False
+1996-01-14,Ivory Coast,Ghana,0.0,2.0,-2.0,2,African Cup of Nations,Port Elizabeth,South Africa,True
+1996-01-14,Zambia,Algeria,0.0,0.0,0.0,0,African Cup of Nations,Bloemfontein,South Africa,True
+1996-01-15,Egypt,Angola,2.0,1.0,1.0,1,African Cup of Nations,Johannesburg,South Africa,True
+1996-01-15,Sierra Leone,Burkina Faso,2.0,1.0,1.0,1,African Cup of Nations,Bloemfontein,South Africa,True
+1996-01-16,Gabon,Liberia,1.0,2.0,-1.0,2,African Cup of Nations,Durban,South Africa,True
+1996-01-16,Tunisia,Mozambique,1.0,1.0,0.0,0,African Cup of Nations,Port Elizabeth,South Africa,True
+1996-01-18,Algeria,Sierra Leone,2.0,0.0,2.0,1,African Cup of Nations,Bloemfontein,South Africa,True
+1996-01-18,Cameroon,Egypt,2.0,1.0,1.0,1,African Cup of Nations,Johannesburg,South Africa,True
+1996-01-19,DR Congo,Gabon,0.0,2.0,-2.0,2,African Cup of Nations,Durban,South Africa,True
+1996-01-19,Ghana,Tunisia,2.0,1.0,1.0,1,African Cup of Nations,Port Elizabeth,South Africa,True
+1996-01-20,Burkina Faso,Zambia,1.0,5.0,-4.0,2,African Cup of Nations,Bloemfontein,South Africa,True
+1996-01-20,South Africa,Angola,1.0,0.0,1.0,1,African Cup of Nations,Johannesburg,South Africa,False
+1996-01-21,Mozambique,Ivory Coast,0.0,1.0,-1.0,2,African Cup of Nations,Port Elizabeth,South Africa,True
+1996-01-24,Angola,Cameroon,3.0,3.0,0.0,0,African Cup of Nations,Durban,South Africa,True
+1996-01-24,Burkina Faso,Algeria,1.0,2.0,-1.0,2,African Cup of Nations,Port Elizabeth,South Africa,True
+1996-01-24,Sierra Leone,Zambia,0.0,4.0,-4.0,2,African Cup of Nations,Bloemfontein,South Africa,True
+1996-01-24,South Africa,Egypt,0.0,1.0,-1.0,2,African Cup of Nations,Johannesburg,South Africa,False
+1996-01-25,Liberia,DR Congo,0.0,2.0,-2.0,2,African Cup of Nations,Johannesburg,South Africa,True
+1996-01-25,Mozambique,Ghana,0.0,2.0,-2.0,2,African Cup of Nations,Bloemfontein,South Africa,True
+1996-01-25,Tunisia,Ivory Coast,3.0,1.0,2.0,1,African Cup of Nations,Port Elizabeth,South Africa,True
+1996-01-27,South Africa,Algeria,2.0,1.0,1.0,1,African Cup of Nations,Johannesburg,South Africa,False
+1996-01-27,Zambia,Egypt,3.0,1.0,2.0,1,African Cup of Nations,Bloemfontein,South Africa,True
+1996-01-28,Gabon,Tunisia,1.0,1.0,0.0,0,African Cup of Nations,Durban,South Africa,True
+1996-01-28,Ghana,DR Congo,1.0,0.0,1.0,1,African Cup of Nations,Port Elizabeth,South Africa,True
+1996-01-31,South Africa,Ghana,3.0,0.0,3.0,1,African Cup of Nations,Johannesburg,South Africa,False
+1996-01-31,Zambia,Tunisia,2.0,4.0,-2.0,2,African Cup of Nations,Durban,South Africa,True
+1996-02-03,South Africa,Tunisia,2.0,0.0,2.0,1,African Cup of Nations,Johannesburg,South Africa,False
+1996-02-03,Zambia,Ghana,1.0,0.0,1.0,1,African Cup of Nations,Johannesburg,South Africa,True
+1998-02-07,Burkina Faso,Cameroon,0.0,1.0,-1.0,2,African Cup of Nations,Ouagadougou,Burkina Faso,False
+1998-02-08,Algeria,Guinea,0.0,1.0,-1.0,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-08,Ivory Coast,Namibia,4.0,3.0,1.0,1,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
+1998-02-08,South Africa,Angola,0.0,0.0,0.0,0,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
+1998-02-09,DR Congo,Togo,2.0,1.0,1.0,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-09,Ghana,Tunisia,2.0,0.0,2.0,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-09,Zambia,Morocco,1.0,1.0,0.0,0,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
+1998-02-10,Egypt,Mozambique,2.0,0.0,2.0,1,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
+1998-02-11,Burkina Faso,Algeria,2.0,1.0,1.0,1,African Cup of Nations,Ouagadougou,Burkina Faso,False
+1998-02-11,Cameroon,Guinea,2.0,2.0,0.0,0,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-11,South Africa,Ivory Coast,1.0,1.0,0.0,0,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
+1998-02-12,Angola,Namibia,3.0,3.0,0.0,0,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
+1998-02-12,Ghana,Togo,1.0,2.0,-1.0,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-12,Tunisia,DR Congo,2.0,1.0,1.0,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-13,Morocco,Mozambique,3.0,0.0,3.0,1,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
+1998-02-13,Zambia,Egypt,0.0,4.0,-4.0,2,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
+1998-02-15,Burkina Faso,Guinea,1.0,0.0,1.0,1,African Cup of Nations,Ouagadougou,Burkina Faso,False
+1998-02-15,Cameroon,Algeria,2.0,1.0,1.0,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-16,Ghana,DR Congo,0.0,1.0,-1.0,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-16,Ivory Coast,Angola,5.0,2.0,3.0,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-16,South Africa,Namibia,4.0,1.0,3.0,1,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
+1998-02-16,Tunisia,Togo,3.0,1.0,2.0,1,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-17,Egypt,Morocco,0.0,1.0,-1.0,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-17,Zambia,Mozambique,3.0,1.0,2.0,1,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
+1998-02-20,Cameroon,DR Congo,0.0,1.0,-1.0,2,African Cup of Nations,Bobo Dioulasso,Burkina Faso,True
+1998-02-21,Burkina Faso,Tunisia,1.0,1.0,0.0,0,African Cup of Nations,Ouagadougou,Burkina Faso,False
+1998-02-21,Ivory Coast,Egypt,0.0,0.0,0.0,0,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-22,Morocco,South Africa,1.0,2.0,-1.0,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-25,Burkina Faso,Egypt,0.0,2.0,-2.0,2,African Cup of Nations,Bobo Dioulasso,Burkina Faso,False
+1998-02-25,DR Congo,South Africa,1.0,2.0,-1.0,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
+1998-02-27,Burkina Faso,DR Congo,4.0,4.0,0.0,0,African Cup of Nations,Ouagadougou,Burkina Faso,False
+1998-02-28,South Africa,Egypt,0.0,2.0,-2.0,2,African Cup of Nations,Ouagadougou,Burkina Faso,True
+2000-01-22,Ghana,Cameroon,1.0,1.0,0.0,0,African Cup of Nations,Accra,Ghana,False
+2000-01-23,Egypt,Zambia,2.0,0.0,2.0,1,African Cup of Nations,Kano,Nigeria,True
+2000-01-23,Nigeria,Tunisia,4.0,2.0,2.0,1,African Cup of Nations,Lagos,Nigeria,False
+2000-01-23,South Africa,Gabon,3.0,1.0,2.0,1,African Cup of Nations,Kumasi,Ghana,True
+2000-01-24,DR Congo,Algeria,0.0,0.0,0.0,0,African Cup of Nations,Kumasi,Ghana,True
+2000-01-24,Ivory Coast,Togo,1.0,1.0,0.0,0,African Cup of Nations,Accra,Ghana,True
+2000-01-25,Burkina Faso,Senegal,1.0,3.0,-2.0,2,African Cup of Nations,Kano,Nigeria,True
+2000-01-25,Morocco,Congo,1.0,0.0,1.0,1,African Cup of Nations,Lagos,Nigeria,True
+2000-01-27,Ghana,Togo,2.0,0.0,2.0,1,African Cup of Nations,Accra,Ghana,False
+2000-01-27,South Africa,DR Congo,1.0,0.0,1.0,1,African Cup of Nations,Kumasi,Ghana,True
+2000-01-28,Cameroon,Ivory Coast,3.0,0.0,3.0,1,African Cup of Nations,Accra,Ghana,True
+2000-01-28,Egypt,Senegal,1.0,0.0,1.0,1,African Cup of Nations,Kano,Nigeria,True
+2000-01-28,Nigeria,Congo,0.0,0.0,0.0,0,African Cup of Nations,Lagos,Nigeria,False
+2000-01-29,Algeria,Gabon,3.0,1.0,2.0,1,African Cup of Nations,Kumasi,Ghana,True
+2000-01-29,Tunisia,Morocco,0.0,0.0,0.0,0,African Cup of Nations,Lagos,Nigeria,True
+2000-01-29,Zambia,Burkina Faso,1.0,1.0,0.0,0,African Cup of Nations,Kano,Nigeria,True
+2000-01-31,Cameroon,Togo,0.0,1.0,-1.0,2,African Cup of Nations,Kumasi,Ghana,True
+2000-01-31,Ghana,Ivory Coast,0.0,2.0,-2.0,2,African Cup of Nations,Accra,Ghana,False
+2000-02-01,Egypt,Burkina Faso,4.0,2.0,2.0,1,African Cup of Nations,Kano,Nigeria,True
+2000-02-01,Zambia,Senegal,2.0,2.0,0.0,0,African Cup of Nations,Lagos,Nigeria,True
+2000-02-02,DR Congo,Gabon,0.0,0.0,0.0,0,African Cup of Nations,Accra,Ghana,True
+2000-02-02,South Africa,Algeria,1.0,1.0,0.0,0,African Cup of Nations,Kumasi,Ghana,True
+2000-02-03,Nigeria,Morocco,2.0,0.0,2.0,1,African Cup of Nations,Lagos,Nigeria,False
+2000-02-03,Tunisia,Congo,1.0,0.0,1.0,1,African Cup of Nations,Kano,Nigeria,True
+2000-02-06,Cameroon,Algeria,2.0,1.0,1.0,1,African Cup of Nations,Accra,Ghana,True
+2000-02-06,Ghana,South Africa,0.0,1.0,-1.0,2,African Cup of Nations,Kumasi,Ghana,False
+2000-02-07,Egypt,Tunisia,0.0,1.0,-1.0,2,African Cup of Nations,Kano,Nigeria,True
+2000-02-07,Nigeria,Senegal,2.0,1.0,1.0,1,African Cup of Nations,Lagos,Nigeria,False
+2000-02-10,Cameroon,Tunisia,3.0,0.0,3.0,1,African Cup of Nations,Accra,Ghana,True
+2000-02-10,Nigeria,South Africa,2.0,0.0,2.0,1,African Cup of Nations,Lagos,Nigeria,False
+2000-02-12,South Africa,Tunisia,2.0,2.0,0.0,0,African Cup of Nations,Accra,Ghana,True
+2000-02-13,Nigeria,Cameroon,2.0,2.0,0.0,0,African Cup of Nations,Lagos,Nigeria,False
+2002-01-19,Mali,Liberia,1.0,1.0,0.0,0,African Cup of Nations,Bamako,Mali,False
+2002-01-20,Cameroon,DR Congo,1.0,0.0,1.0,1,African Cup of Nations,Sikasso,Mali,True
+2002-01-20,Egypt,Senegal,0.0,1.0,-1.0,2,African Cup of Nations,Bamako,Mali,True
+2002-01-20,South Africa,Burkina Faso,0.0,0.0,0.0,0,African Cup of Nations,Ségou,Mali,True
+2002-01-21,Algeria,Nigeria,0.0,1.0,-1.0,2,African Cup of Nations,Bamako,Mali,True
+2002-01-21,Morocco,Ghana,0.0,0.0,0.0,0,African Cup of Nations,Ségou,Mali,True
+2002-01-21,Togo,Ivory Coast,0.0,0.0,0.0,0,African Cup of Nations,Sikasso,Mali,True
+2002-01-21,Zambia,Tunisia,0.0,0.0,0.0,0,African Cup of Nations,Bamako,Mali,True
+2002-01-24,Mali,Nigeria,0.0,0.0,0.0,0,African Cup of Nations,Bamako,Mali,False
+2002-01-24,South Africa,Ghana,0.0,0.0,0.0,0,African Cup of Nations,Ségou,Mali,True
+2002-01-25,Cameroon,Ivory Coast,1.0,0.0,1.0,1,African Cup of Nations,Sikasso,Mali,True
+2002-01-25,Egypt,Tunisia,1.0,0.0,1.0,1,African Cup of Nations,Bamako,Mali,True
+2002-01-25,Liberia,Algeria,2.0,2.0,0.0,0,African Cup of Nations,Bamako,Mali,True
+2002-01-26,Burkina Faso,Morocco,1.0,2.0,-1.0,2,African Cup of Nations,Ségou,Mali,True
+2002-01-26,DR Congo,Togo,0.0,0.0,0.0,0,African Cup of Nations,Sikasso,Mali,True
+2002-01-26,Senegal,Zambia,1.0,0.0,1.0,1,African Cup of Nations,Bamako,Mali,True
+2002-01-28,Liberia,Nigeria,0.0,1.0,-1.0,2,African Cup of Nations,Mopti,Mali,True
+2002-01-28,Mali,Algeria,2.0,0.0,2.0,1,African Cup of Nations,Bamako,Mali,False
+2002-01-29,Cameroon,Togo,3.0,0.0,3.0,1,African Cup of Nations,Sikasso,Mali,True
+2002-01-29,DR Congo,Ivory Coast,3.0,1.0,2.0,1,African Cup of Nations,Kayes,Mali,True
+2002-01-30,Burkina Faso,Ghana,1.0,2.0,-1.0,2,African Cup of Nations,Mopti,Mali,True
+2002-01-30,South Africa,Morocco,3.0,1.0,2.0,1,African Cup of Nations,Ségou,Mali,True
+2002-01-31,Egypt,Zambia,2.0,1.0,1.0,1,African Cup of Nations,Bamako,Mali,True
+2002-01-31,Senegal,Tunisia,0.0,0.0,0.0,0,African Cup of Nations,Kayes,Mali,True
+2002-02-03,Mali,South Africa,2.0,0.0,2.0,1,African Cup of Nations,Kayes,Mali,False
+2002-02-03,Nigeria,Ghana,1.0,0.0,1.0,1,African Cup of Nations,Bamako,Mali,True
+2002-02-04,Cameroon,Egypt,1.0,0.0,1.0,1,African Cup of Nations,Sikasso,Mali,True
+2002-02-04,Senegal,DR Congo,2.0,0.0,2.0,1,African Cup of Nations,Bamako,Mali,True
+2002-02-07,Mali,Cameroon,0.0,3.0,-3.0,2,African Cup of Nations,Bamako,Mali,False
+2002-02-07,Nigeria,Senegal,1.0,2.0,-1.0,2,African Cup of Nations,Bamako,Mali,True
+2002-02-09,Mali,Nigeria,0.0,1.0,-1.0,2,African Cup of Nations,Mopti,Mali,False
+2002-02-10,Senegal,Cameroon,0.0,0.0,0.0,0,African Cup of Nations,Bamako,Mali,True
+2004-01-24,Tunisia,Rwanda,2.0,1.0,1.0,1,African Cup of Nations,Radès,Tunisia,False
+2004-01-25,Cameroon,Algeria,1.0,1.0,0.0,0,African Cup of Nations,Sousse,Tunisia,True
+2004-01-25,DR Congo,Guinea,1.0,2.0,-1.0,2,African Cup of Nations,Tunis,Tunisia,True
+2004-01-25,Zimbabwe,Egypt,1.0,2.0,-1.0,2,African Cup of Nations,Sfax,Tunisia,True
+2004-01-26,Kenya,Mali,1.0,3.0,-2.0,2,African Cup of Nations,Bizerte,Tunisia,True
+2004-01-26,Senegal,Burkina Faso,0.0,0.0,0.0,0,African Cup of Nations,Tunis,Tunisia,True
+2004-01-27,Nigeria,Morocco,0.0,1.0,-1.0,2,African Cup of Nations,Monastir,Tunisia,True
+2004-01-27,South Africa,Benin,2.0,0.0,2.0,1,African Cup of Nations,Sfax,Tunisia,True
+2004-01-28,Rwanda,Guinea,1.0,1.0,0.0,0,African Cup of Nations,Bizerte,Tunisia,True
+2004-01-28,Tunisia,DR Congo,3.0,0.0,3.0,1,African Cup of Nations,Radès,Tunisia,False
+2004-01-29,Algeria,Egypt,2.0,1.0,1.0,1,African Cup of Nations,Sousse,Tunisia,True
+2004-01-29,Cameroon,Zimbabwe,5.0,3.0,2.0,1,African Cup of Nations,Sfax,Tunisia,True
+2004-01-30,Burkina Faso,Mali,1.0,3.0,-2.0,2,African Cup of Nations,Tunis,Tunisia,True
+2004-01-30,Senegal,Kenya,3.0,0.0,3.0,1,African Cup of Nations,Bizerte,Tunisia,True
+2004-01-31,Morocco,Benin,4.0,0.0,4.0,1,African Cup of Nations,Sfax,Tunisia,True
+2004-01-31,Nigeria,South Africa,4.0,0.0,4.0,1,African Cup of Nations,Monastir,Tunisia,True
+2004-02-01,Rwanda,DR Congo,1.0,0.0,1.0,1,African Cup of Nations,Bizerte,Tunisia,True
+2004-02-01,Tunisia,Guinea,1.0,1.0,0.0,0,African Cup of Nations,Radès,Tunisia,False
+2004-02-02,Burkina Faso,Kenya,0.0,3.0,-3.0,2,African Cup of Nations,Bizerte,Tunisia,True
+2004-02-02,Senegal,Mali,1.0,1.0,0.0,0,African Cup of Nations,Tunis,Tunisia,True
+2004-02-03,Algeria,Zimbabwe,1.0,2.0,-1.0,2,African Cup of Nations,Sousse,Tunisia,True
+2004-02-03,Cameroon,Egypt,0.0,0.0,0.0,0,African Cup of Nations,Monastir,Tunisia,True
+2004-02-04,Morocco,South Africa,1.0,1.0,0.0,0,African Cup of Nations,Sousse,Tunisia,True
+2004-02-04,Nigeria,Benin,2.0,1.0,1.0,1,African Cup of Nations,Sfax,Tunisia,True
+2004-02-07,Mali,Guinea,2.0,1.0,1.0,1,African Cup of Nations,Tunis,Tunisia,True
+2004-02-07,Tunisia,Senegal,1.0,0.0,1.0,1,African Cup of Nations,Radès,Tunisia,False
+2004-02-08,Cameroon,Nigeria,1.0,2.0,-1.0,2,African Cup of Nations,Monastir,Tunisia,True
+2004-02-08,Morocco,Algeria,3.0,1.0,2.0,1,African Cup of Nations,Sfax,Tunisia,True
+2004-02-11,Morocco,Mali,4.0,0.0,4.0,1,African Cup of Nations,Sousse,Tunisia,True
+2004-02-11,Tunisia,Nigeria,1.0,1.0,0.0,0,African Cup of Nations,Radès,Tunisia,False
+2004-02-13,Nigeria,Mali,2.0,1.0,1.0,1,African Cup of Nations,Monastir,Tunisia,True
+2004-02-14,Tunisia,Morocco,2.0,1.0,1.0,1,African Cup of Nations,Radès,Tunisia,False
+2006-01-20,Egypt,Libya,3.0,0.0,3.0,1,African Cup of Nations,Cairo,Egypt,False
+2006-01-21,Cameroon,Angola,3.0,1.0,2.0,1,African Cup of Nations,Cairo,Egypt,True
+2006-01-21,Morocco,Ivory Coast,0.0,1.0,-1.0,2,African Cup of Nations,Cairo,Egypt,True
+2006-01-21,Togo,DR Congo,0.0,2.0,-2.0,2,African Cup of Nations,Cairo,Egypt,True
+2006-01-22,South Africa,Guinea,0.0,2.0,-2.0,2,African Cup of Nations,Alexandria,Egypt,True
+2006-01-22,Tunisia,Zambia,4.0,1.0,3.0,1,African Cup of Nations,Alexandria,Egypt,True
+2006-01-23,Nigeria,Ghana,1.0,0.0,1.0,1,African Cup of Nations,Port Said,Egypt,True
+2006-01-23,Zimbabwe,Senegal,0.0,2.0,-2.0,2,African Cup of Nations,Port Said,Egypt,True
+2006-01-24,Egypt,Morocco,0.0,0.0,0.0,0,African Cup of Nations,Cairo,Egypt,False
+2006-01-24,Libya,Ivory Coast,1.0,2.0,-1.0,2,African Cup of Nations,Cairo,Egypt,True
+2006-01-25,Angola,DR Congo,0.0,0.0,0.0,0,African Cup of Nations,Cairo,Egypt,True
+2006-01-25,Cameroon,Togo,2.0,0.0,2.0,1,African Cup of Nations,Cairo,Egypt,True
+2006-01-26,Tunisia,South Africa,2.0,0.0,2.0,1,African Cup of Nations,Alexandria,Egypt,True
+2006-01-26,Zambia,Guinea,1.0,2.0,-1.0,2,African Cup of Nations,Alexandria,Egypt,True
+2006-01-27,Ghana,Senegal,1.0,0.0,1.0,1,African Cup of Nations,Port Said,Egypt,True
+2006-01-27,Nigeria,Zimbabwe,2.0,0.0,2.0,1,African Cup of Nations,Port Said,Egypt,True
+2006-01-28,Egypt,Ivory Coast,3.0,1.0,2.0,1,African Cup of Nations,Cairo,Egypt,False
+2006-01-28,Libya,Morocco,0.0,0.0,0.0,0,African Cup of Nations,Cairo,Egypt,True
+2006-01-29,Angola,Togo,3.0,2.0,1.0,1,African Cup of Nations,Cairo,Egypt,True
+2006-01-29,Cameroon,DR Congo,2.0,0.0,2.0,1,African Cup of Nations,Cairo,Egypt,True
+2006-01-30,Tunisia,Guinea,0.0,3.0,-3.0,2,African Cup of Nations,Alexandria,Egypt,True
+2006-01-30,Zambia,South Africa,1.0,0.0,1.0,1,African Cup of Nations,Alexandria,Egypt,True
+2006-01-31,Ghana,Zimbabwe,1.0,2.0,-1.0,2,African Cup of Nations,Ismailia,Egypt,True
+2006-01-31,Nigeria,Senegal,2.0,1.0,1.0,1,African Cup of Nations,Port Said,Egypt,True
+2006-02-03,Egypt,DR Congo,4.0,1.0,3.0,1,African Cup of Nations,Cairo,Egypt,False
+2006-02-03,Guinea,Senegal,2.0,3.0,-1.0,2,African Cup of Nations,Alexandria,Egypt,True
+2006-02-04,Cameroon,Ivory Coast,1.0,1.0,0.0,0,African Cup of Nations,Cairo,Egypt,True
+2006-02-04,Nigeria,Tunisia,1.0,1.0,0.0,0,African Cup of Nations,Port Said,Egypt,True
+2006-02-07,Egypt,Senegal,2.0,1.0,1.0,1,African Cup of Nations,Cairo,Egypt,False
+2006-02-07,Nigeria,Ivory Coast,0.0,1.0,-1.0,2,African Cup of Nations,Alexandria,Egypt,True
+2006-02-09,Senegal,Nigeria,0.0,1.0,-1.0,2,African Cup of Nations,Cairo,Egypt,True
+2006-02-10,Egypt,Ivory Coast,0.0,0.0,0.0,0,African Cup of Nations,Cairo,Egypt,False
+2008-01-20,Ghana,Guinea,2.0,1.0,1.0,1,African Cup of Nations,Accra,Ghana,False
+2008-01-21,Mali,Benin,1.0,0.0,1.0,1,African Cup of Nations,Sekondi,Ghana,True
+2008-01-21,Namibia,Morocco,1.0,5.0,-4.0,2,African Cup of Nations,Accra,Ghana,True
+2008-01-21,Nigeria,Ivory Coast,0.0,1.0,-1.0,2,African Cup of Nations,Sekondi,Ghana,True
+2008-01-22,Egypt,Cameroon,4.0,2.0,2.0,1,African Cup of Nations,Kumasi,Ghana,True
+2008-01-22,Sudan,Zambia,0.0,3.0,-3.0,2,African Cup of Nations,Kumasi,Ghana,True
+2008-01-23,South Africa,Angola,1.0,1.0,0.0,0,African Cup of Nations,Tamale,Ghana,True
+2008-01-23,Tunisia,Senegal,2.0,2.0,0.0,0,African Cup of Nations,Tamale,Ghana,True
+2008-01-24,Ghana,Namibia,1.0,0.0,1.0,1,African Cup of Nations,Accra,Ghana,False
+2008-01-24,Guinea,Morocco,3.0,2.0,1.0,1,African Cup of Nations,Accra,Ghana,True
+2008-01-25,Ivory Coast,Benin,4.0,1.0,3.0,1,African Cup of Nations,Sekondi,Ghana,True
+2008-01-25,Nigeria,Mali,0.0,0.0,0.0,0,African Cup of Nations,Sekondi,Ghana,True
+2008-01-26,Cameroon,Zambia,5.0,1.0,4.0,1,African Cup of Nations,Kumasi,Ghana,True
+2008-01-26,Egypt,Sudan,3.0,0.0,3.0,1,African Cup of Nations,Kumasi,Ghana,True
+2008-01-27,Senegal,Angola,1.0,3.0,-2.0,2,African Cup of Nations,Tamale,Ghana,True
+2008-01-27,Tunisia,South Africa,3.0,1.0,2.0,1,African Cup of Nations,Tamale,Ghana,True
+2008-01-28,Ghana,Morocco,2.0,0.0,2.0,1,African Cup of Nations,Accra,Ghana,False
+2008-01-28,Guinea,Namibia,1.0,1.0,0.0,0,African Cup of Nations,Sekondi,Ghana,True
+2008-01-29,Ivory Coast,Mali,3.0,0.0,3.0,1,African Cup of Nations,Accra,Ghana,True
+2008-01-29,Nigeria,Benin,2.0,0.0,2.0,1,African Cup of Nations,Sekondi,Ghana,True
+2008-01-30,Cameroon,Sudan,3.0,0.0,3.0,1,African Cup of Nations,Tamale,Ghana,True
+2008-01-30,Egypt,Zambia,1.0,1.0,0.0,0,African Cup of Nations,Kumasi,Ghana,True
+2008-01-31,Senegal,South Africa,1.0,1.0,0.0,0,African Cup of Nations,Kumasi,Ghana,True
+2008-01-31,Tunisia,Angola,0.0,0.0,0.0,0,African Cup of Nations,Tamale,Ghana,True
+2008-02-03,Ghana,Nigeria,2.0,1.0,1.0,1,African Cup of Nations,Accra,Ghana,False
+2008-02-03,Ivory Coast,Guinea,5.0,0.0,5.0,1,African Cup of Nations,Sekondi,Ghana,True
+2008-02-04,Egypt,Angola,2.0,1.0,1.0,1,African Cup of Nations,Kumasi,Ghana,True
+2008-02-04,Tunisia,Cameroon,2.0,3.0,-1.0,2,African Cup of Nations,Tamale,Ghana,True
+2008-02-07,Ghana,Cameroon,0.0,1.0,-1.0,2,African Cup of Nations,Accra,Ghana,False
+2008-02-07,Ivory Coast,Egypt,1.0,4.0,-3.0,2,African Cup of Nations,Kumasi,Ghana,True
+2008-02-09,Ghana,Ivory Coast,4.0,2.0,2.0,1,African Cup of Nations,Kumasi,Ghana,False
+2008-02-10,Cameroon,Egypt,0.0,1.0,-1.0,2,African Cup of Nations,Accra,Ghana,True
+2010-01-10,Angola,Mali,4.0,4.0,0.0,0,African Cup of Nations,Luanda,Angola,False
+2010-01-11,Ivory Coast,Burkina Faso,0.0,0.0,0.0,0,African Cup of Nations,Cabinda,Angola,True
+2010-01-11,Malawi,Algeria,3.0,0.0,3.0,1,African Cup of Nations,Luanda,Angola,True
+2010-01-12,Egypt,Nigeria,3.0,1.0,2.0,1,African Cup of Nations,Benguela,Angola,True
+2010-01-12,Mozambique,Benin,2.0,2.0,0.0,0,African Cup of Nations,Benguela,Angola,True
+2010-01-13,Cameroon,Gabon,0.0,1.0,-1.0,2,African Cup of Nations,Lubango,Angola,True
+2010-01-13,Zambia,Tunisia,1.0,1.0,0.0,0,African Cup of Nations,Lubango,Angola,True
+2010-01-14,Angola,Malawi,2.0,0.0,2.0,1,African Cup of Nations,Luanda,Angola,False
+2010-01-14,Mali,Algeria,0.0,1.0,-1.0,2,African Cup of Nations,Luanda,Angola,True
+2010-01-15,Ivory Coast,Ghana,3.0,1.0,2.0,1,African Cup of Nations,Cabinda,Angola,True
+2010-01-16,Egypt,Mozambique,2.0,0.0,2.0,1,African Cup of Nations,Benguela,Angola,True
+2010-01-16,Nigeria,Benin,1.0,0.0,1.0,1,African Cup of Nations,Benguela,Angola,True
+2010-01-17,Cameroon,Zambia,3.0,2.0,1.0,1,African Cup of Nations,Lubango,Angola,True
+2010-01-17,Gabon,Tunisia,0.0,0.0,0.0,0,African Cup of Nations,Lubango,Angola,True
+2010-01-18,Angola,Algeria,0.0,0.0,0.0,0,African Cup of Nations,Luanda,Angola,False
+2010-01-18,Mali,Malawi,3.0,1.0,2.0,1,African Cup of Nations,Cabinda,Angola,True
+2010-01-19,Burkina Faso,Ghana,0.0,1.0,-1.0,2,African Cup of Nations,Luanda,Angola,True
+2010-01-20,Egypt,Benin,2.0,0.0,2.0,1,African Cup of Nations,Benguela,Angola,True
+2010-01-20,Nigeria,Mozambique,3.0,0.0,3.0,1,African Cup of Nations,Lubango,Angola,True
+2010-01-21,Cameroon,Tunisia,2.0,2.0,0.0,0,African Cup of Nations,Lubango,Angola,True
+2010-01-21,Gabon,Zambia,1.0,2.0,-1.0,2,African Cup of Nations,Benguela,Angola,True
+2010-01-24,Angola,Ghana,0.0,1.0,-1.0,2,African Cup of Nations,Luanda,Angola,False
+2010-01-24,Ivory Coast,Algeria,2.0,3.0,-1.0,2,African Cup of Nations,Cabinda,Angola,True
+2010-01-25,Egypt,Cameroon,3.0,1.0,2.0,1,African Cup of Nations,Benguela,Angola,True
+2010-01-25,Zambia,Nigeria,0.0,0.0,0.0,0,African Cup of Nations,Lubango,Angola,True
+2010-01-28,Algeria,Egypt,0.0,4.0,-4.0,2,African Cup of Nations,Benguela,Angola,True
+2010-01-28,Ghana,Nigeria,1.0,0.0,1.0,1,African Cup of Nations,Luanda,Angola,True
+2010-01-30,Nigeria,Algeria,1.0,0.0,1.0,1,African Cup of Nations,Benguela,Angola,True
+2010-01-31,Ghana,Egypt,0.0,1.0,-1.0,2,African Cup of Nations,Luanda,Angola,True
+2012-01-21,Equatorial Guinea,Libya,1.0,0.0,1.0,1,African Cup of Nations,Bata,Equatorial Guinea,False
+2012-01-21,Senegal,Zambia,1.0,2.0,-1.0,2,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-01-22,Burkina Faso,Angola,1.0,2.0,-1.0,2,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-01-22,Ivory Coast,Sudan,1.0,0.0,1.0,1,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-01-23,Gabon,Niger,2.0,0.0,2.0,1,African Cup of Nations,Libreville,Gabon,False
+2012-01-23,Morocco,Tunisia,1.0,2.0,-1.0,2,African Cup of Nations,Libreville,Gabon,True
+2012-01-24,Ghana,Botswana,1.0,0.0,1.0,1,African Cup of Nations,Franceville,Gabon,True
+2012-01-24,Mali,Guinea,1.0,0.0,1.0,1,African Cup of Nations,Franceville,Gabon,True
+2012-01-25,Equatorial Guinea,Senegal,2.0,1.0,1.0,1,African Cup of Nations,Bata,Equatorial Guinea,False
+2012-01-25,Libya,Zambia,2.0,2.0,0.0,0,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-01-26,Ivory Coast,Burkina Faso,2.0,0.0,2.0,1,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-01-26,Sudan,Angola,2.0,2.0,0.0,0,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-01-27,Gabon,Morocco,3.0,2.0,1.0,1,African Cup of Nations,Libreville,Gabon,False
+2012-01-27,Niger,Tunisia,1.0,2.0,-1.0,2,African Cup of Nations,Libreville,Gabon,True
+2012-01-28,Botswana,Guinea,1.0,6.0,-5.0,2,African Cup of Nations,Franceville,Gabon,True
+2012-01-28,Ghana,Mali,2.0,0.0,2.0,1,African Cup of Nations,Franceville,Gabon,True
+2012-01-29,Equatorial Guinea,Zambia,0.0,1.0,-1.0,2,African Cup of Nations,Malabo,Equatorial Guinea,False
+2012-01-29,Libya,Senegal,2.0,1.0,1.0,1,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-01-30,Ivory Coast,Angola,2.0,0.0,2.0,1,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-01-30,Sudan,Burkina Faso,2.0,1.0,1.0,1,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-01-31,Gabon,Tunisia,1.0,0.0,1.0,1,African Cup of Nations,Franceville,Gabon,False
+2012-01-31,Niger,Morocco,0.0,1.0,-1.0,2,African Cup of Nations,Libreville,Gabon,True
+2012-02-01,Botswana,Mali,1.0,2.0,-1.0,2,African Cup of Nations,Libreville,Gabon,True
+2012-02-01,Ghana,Guinea,1.0,1.0,0.0,0,African Cup of Nations,Franceville,Gabon,True
+2012-02-04,Equatorial Guinea,Ivory Coast,0.0,3.0,-3.0,2,African Cup of Nations,Malabo,Equatorial Guinea,False
+2012-02-04,Zambia,Sudan,3.0,0.0,3.0,1,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-02-05,Gabon,Mali,1.0,1.0,0.0,0,African Cup of Nations,Libreville,Gabon,False
+2012-02-05,Ghana,Tunisia,2.0,1.0,1.0,1,African Cup of Nations,Franceville,Gabon,True
+2012-02-08,Mali,Ivory Coast,0.0,1.0,-1.0,2,African Cup of Nations,Libreville,Gabon,True
+2012-02-08,Zambia,Ghana,1.0,0.0,1.0,1,African Cup of Nations,Bata,Equatorial Guinea,True
+2012-02-11,Ghana,Mali,0.0,2.0,-2.0,2,African Cup of Nations,Malabo,Equatorial Guinea,True
+2012-02-12,Zambia,Ivory Coast,0.0,0.0,0.0,0,African Cup of Nations,Libreville,Gabon,True
+2013-01-19,Angola,Morocco,0.0,0.0,0.0,0,African Cup of Nations,Johannesburg,South Africa,True
+2013-01-19,South Africa,Cape Verde,0.0,0.0,0.0,0,African Cup of Nations,Johannesburg,South Africa,False
+2013-01-20,Ghana,DR Congo,2.0,2.0,0.0,0,African Cup of Nations,Port Elizabeth,South Africa,True
+2013-01-20,Mali,Niger,1.0,0.0,1.0,1,African Cup of Nations,Port Elizabeth,South Africa,True
+2013-01-21,Nigeria,Burkina Faso,1.0,1.0,0.0,0,African Cup of Nations,Nelspruit,South Africa,True
+2013-01-21,Zambia,Ethiopia,1.0,1.0,0.0,0,African Cup of Nations,Nelspruit,South Africa,True
+2013-01-22,Ivory Coast,Togo,2.0,1.0,1.0,1,African Cup of Nations,Rustenburg,South Africa,True
+2013-01-22,Tunisia,Algeria,1.0,0.0,1.0,1,African Cup of Nations,Rustenburg,South Africa,True
+2013-01-23,Morocco,Cape Verde,1.0,1.0,0.0,0,African Cup of Nations,Durban,South Africa,True
+2013-01-23,South Africa,Angola,2.0,0.0,2.0,1,African Cup of Nations,Durban,South Africa,False
+2013-01-24,Ghana,Mali,1.0,0.0,1.0,1,African Cup of Nations,Port Elizabeth,South Africa,True
+2013-01-24,Niger,DR Congo,0.0,0.0,0.0,0,African Cup of Nations,Port Elizabeth,South Africa,True
+2013-01-25,Burkina Faso,Ethiopia,4.0,0.0,4.0,1,African Cup of Nations,Nelspruit,South Africa,True
+2013-01-25,Zambia,Nigeria,1.0,1.0,0.0,0,African Cup of Nations,Nelspruit,South Africa,True
+2013-01-26,Algeria,Togo,0.0,2.0,-2.0,2,African Cup of Nations,Rustenburg,South Africa,True
+2013-01-26,Ivory Coast,Tunisia,3.0,0.0,3.0,1,African Cup of Nations,Rustenburg,South Africa,True
+2013-01-27,Cape Verde,Angola,2.0,1.0,1.0,1,African Cup of Nations,Port Elizabeth,South Africa,True
+2013-01-27,South Africa,Morocco,2.0,2.0,0.0,0,African Cup of Nations,Durban,South Africa,False
+2013-01-28,DR Congo,Mali,1.0,1.0,0.0,0,African Cup of Nations,Durban,South Africa,True
+2013-01-28,Niger,Ghana,0.0,3.0,-3.0,2,African Cup of Nations,Port Elizabeth,South Africa,True
+2013-01-29,Burkina Faso,Zambia,0.0,0.0,0.0,0,African Cup of Nations,Nelspruit,South Africa,True
+2013-01-29,Ethiopia,Nigeria,0.0,2.0,-2.0,2,African Cup of Nations,Rustenburg,South Africa,True
+2013-01-30,Algeria,Ivory Coast,2.0,2.0,0.0,0,African Cup of Nations,Rustenburg,South Africa,True
+2013-01-30,Togo,Tunisia,1.0,1.0,0.0,0,African Cup of Nations,Nelspruit,South Africa,True
+2013-02-02,Ghana,Cape Verde,2.0,0.0,2.0,1,African Cup of Nations,Port Elizabeth,South Africa,True
+2013-02-02,South Africa,Mali,1.0,1.0,0.0,0,African Cup of Nations,Durban,South Africa,False
+2013-02-03,Burkina Faso,Togo,1.0,0.0,1.0,1,African Cup of Nations,Nelspruit,South Africa,True
+2013-02-03,Ivory Coast,Nigeria,1.0,2.0,-1.0,2,African Cup of Nations,Rustenburg,South Africa,True
+2013-02-06,Burkina Faso,Ghana,1.0,1.0,0.0,0,African Cup of Nations,Nelspruit,South Africa,True
+2013-02-06,Mali,Nigeria,1.0,4.0,-3.0,2,African Cup of Nations,Durban,South Africa,True
+2013-02-09,Mali,Ghana,3.0,1.0,2.0,1,African Cup of Nations,Port Elizabeth,South Africa,True
+2013-02-10,Nigeria,Burkina Faso,1.0,0.0,1.0,1,African Cup of Nations,Johannesburg,South Africa,True
+2015-01-17,Burkina Faso,Gabon,0.0,2.0,-2.0,2,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-01-17,Equatorial Guinea,Congo,1.0,1.0,0.0,0,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-01-18,Tunisia,Cape Verde,1.0,1.0,0.0,0,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
+2015-01-18,Zambia,DR Congo,1.0,1.0,0.0,0,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
+2015-01-19,Algeria,South Africa,3.0,1.0,2.0,1,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-19,Ghana,Senegal,1.0,2.0,-1.0,2,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-20,Ivory Coast,Guinea,1.0,1.0,0.0,0,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-01-20,Mali,Cameroon,1.0,1.0,0.0,0,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-01-21,Equatorial Guinea,Burkina Faso,0.0,0.0,0.0,0,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-01-21,Gabon,Congo,0.0,1.0,-1.0,2,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-01-22,Cape Verde,DR Congo,0.0,0.0,0.0,0,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
+2015-01-22,Zambia,Tunisia,1.0,2.0,-1.0,2,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
+2015-01-23,Ghana,Algeria,1.0,0.0,1.0,1,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-23,South Africa,Senegal,1.0,1.0,0.0,0,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-24,Cameroon,Guinea,1.0,1.0,0.0,0,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-01-24,Ivory Coast,Mali,1.0,1.0,0.0,0,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-01-25,Congo,Burkina Faso,2.0,1.0,1.0,1,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
+2015-01-25,Equatorial Guinea,Gabon,2.0,0.0,2.0,1,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-01-26,Cape Verde,Zambia,0.0,0.0,0.0,0,African Cup of Nations,Ebebiyín,Equatorial Guinea,True
+2015-01-26,DR Congo,Tunisia,1.0,1.0,0.0,0,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-01-27,Senegal,Algeria,0.0,2.0,-2.0,2,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-01-27,South Africa,Ghana,1.0,2.0,-1.0,2,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-28,Cameroon,Ivory Coast,0.0,1.0,-1.0,2,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-01-28,Guinea,Mali,1.0,1.0,0.0,0,African Cup of Nations,Mongomo,Equatorial Guinea,True
+2015-01-31,Congo,DR Congo,2.0,4.0,-2.0,2,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-01-31,Equatorial Guinea,Tunisia,2.0,1.0,1.0,1,African Cup of Nations,Bata,Equatorial Guinea,False
+2015-02-01,Ghana,Guinea,3.0,0.0,3.0,1,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-02-01,Ivory Coast,Algeria,3.0,1.0,2.0,1,African Cup of Nations,Malabo,Equatorial Guinea,True
+2015-02-04,DR Congo,Ivory Coast,1.0,3.0,-2.0,2,African Cup of Nations,Bata,Equatorial Guinea,True
+2015-02-05,Equatorial Guinea,Ghana,0.0,3.0,-3.0,2,African Cup of Nations,Malabo,Equatorial Guinea,False
+2015-02-07,Equatorial Guinea,DR Congo,0.0,0.0,0.0,0,African Cup of Nations,Malabo,Equatorial Guinea,False
+2015-02-08,Ivory Coast,Ghana,0.0,0.0,0.0,0,African Cup of Nations,Bata,Equatorial Guinea,True
+2017-01-14,Burkina Faso,Cameroon,1.0,1.0,0.0,0,African Cup of Nations,Libreville,Gabon,True
+2017-01-14,Gabon,Guinea-Bissau,1.0,1.0,0.0,0,African Cup of Nations,Libreville,Gabon,False
+2017-01-15,Algeria,Zimbabwe,2.0,2.0,0.0,0,African Cup of Nations,Franceville,Gabon,True
+2017-01-15,Tunisia,Senegal,0.0,2.0,-2.0,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-16,DR Congo,Morocco,1.0,0.0,1.0,1,African Cup of Nations,Oyem,Gabon,True
+2017-01-16,Ivory Coast,Togo,0.0,0.0,0.0,0,African Cup of Nations,Oyem,Gabon,True
+2017-01-17,Ghana,Uganda,1.0,0.0,1.0,1,African Cup of Nations,Port-Gentil,Gabon,True
+2017-01-17,Mali,Egypt,0.0,0.0,0.0,0,African Cup of Nations,Port-Gentil,Gabon,True
+2017-01-18,Cameroon,Guinea-Bissau,2.0,1.0,1.0,1,African Cup of Nations,Libreville,Gabon,True
+2017-01-18,Gabon,Burkina Faso,1.0,1.0,0.0,0,African Cup of Nations,Libreville,Gabon,False
+2017-01-19,Algeria,Tunisia,1.0,2.0,-1.0,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-19,Senegal,Zimbabwe,2.0,0.0,2.0,1,African Cup of Nations,Franceville,Gabon,True
+2017-01-20,Ivory Coast,DR Congo,2.0,2.0,0.0,0,African Cup of Nations,Oyem,Gabon,True
+2017-01-20,Morocco,Togo,3.0,1.0,2.0,1,African Cup of Nations,Oyem,Gabon,True
+2017-01-21,Egypt,Uganda,1.0,0.0,1.0,1,African Cup of Nations,Port-Gentil,Gabon,True
+2017-01-21,Ghana,Mali,1.0,0.0,1.0,1,African Cup of Nations,Port-Gentil,Gabon,True
+2017-01-22,Gabon,Cameroon,0.0,0.0,0.0,0,African Cup of Nations,Libreville,Gabon,False
+2017-01-22,Guinea-Bissau,Burkina Faso,0.0,2.0,-2.0,2,African Cup of Nations,Franceville,Gabon,True
+2017-01-23,Senegal,Algeria,2.0,2.0,0.0,0,African Cup of Nations,Franceville,Gabon,True
+2017-01-23,Zimbabwe,Tunisia,2.0,4.0,-2.0,2,African Cup of Nations,Libreville,Gabon,True
+2017-01-24,Morocco,Ivory Coast,1.0,0.0,1.0,1,African Cup of Nations,Oyem,Gabon,True
+2017-01-24,Togo,DR Congo,1.0,3.0,-2.0,2,African Cup of Nations,Port-Gentil,Gabon,True
+2017-01-25,Egypt,Ghana,1.0,0.0,1.0,1,African Cup of Nations,Port-Gentil,Gabon,True
+2017-01-25,Uganda,Mali,1.0,1.0,0.0,0,African Cup of Nations,Oyem,Gabon,True
+2017-01-28,Burkina Faso,Tunisia,2.0,0.0,2.0,1,African Cup of Nations,Libreville,Gabon,True
+2017-01-28,Senegal,Cameroon,0.0,0.0,0.0,0,African Cup of Nations,Franceville,Gabon,True
+2017-01-29,DR Congo,Ghana,1.0,2.0,-1.0,2,African Cup of Nations,Oyem,Gabon,True
+2017-01-29,Egypt,Morocco,1.0,0.0,1.0,1,African Cup of Nations,Port-Gentil,Gabon,True
+2017-02-01,Burkina Faso,Egypt,1.0,1.0,0.0,0,African Cup of Nations,Libreville,Gabon,True
+2017-02-02,Cameroon,Ghana,2.0,0.0,2.0,1,African Cup of Nations,Franceville,Gabon,True
+2017-02-04,Burkina Faso,Ghana,1.0,0.0,1.0,1,African Cup of Nations,Port-Gentil,Gabon,True
+2017-02-05,Egypt,Cameroon,1.0,2.0,-1.0,2,African Cup of Nations,Libreville,Gabon,True
+2019-06-21,Egypt,Zimbabwe,1.0,0.0,1.0,1,African Cup of Nations,Cairo,Egypt,False
+2019-06-22,DR Congo,Uganda,0.0,2.0,-2.0,2,African Cup of Nations,Cairo,Egypt,True
+2019-06-22,Nigeria,Burundi,1.0,0.0,1.0,1,African Cup of Nations,Alexandria,Egypt,True
+2019-06-22,Guinea,Madagascar,2.0,2.0,0.0,0,African Cup of Nations,Alexandria,Egypt,True
+2019-06-23,Senegal,Tanzania,2.0,0.0,2.0,1,African Cup of Nations,Cairo,Egypt,True
+2019-06-23,Algeria,Kenya,2.0,0.0,2.0,1,African Cup of Nations,Cairo,Egypt,True
+2019-06-23,Morocco,Namibia,1.0,0.0,1.0,1,African Cup of Nations,Cairo,Egypt,True
+2019-06-24,Ivory Coast,South Africa,1.0,0.0,1.0,1,African Cup of Nations,Cairo,Egypt,True
+2019-06-24,Tunisia,Angola,1.0,1.0,0.0,0,African Cup of Nations,Suez,Egypt,True
+2019-06-24,Mali,Mauritania,4.0,1.0,3.0,1,African Cup of Nations,Suez,Egypt,True
+2019-06-25,Cameroon,Guinea-Bissau,2.0,0.0,2.0,1,African Cup of Nations,Ismailia,Egypt,True
+2019-06-25,Ghana,Benin,2.0,2.0,0.0,0,African Cup of Nations,Ismailia,Egypt,True
+2019-06-26,Uganda,Zimbabwe,1.0,1.0,0.0,0,African Cup of Nations,Cairo,Egypt,True
+2019-06-26,Egypt,DR Congo,2.0,0.0,2.0,1,African Cup of Nations,Cairo,Egypt,False
+2019-06-26,Nigeria,Guinea,1.0,0.0,1.0,1,African Cup of Nations,Alexandria,Egypt,True
+2019-06-27,Madagascar,Burundi,1.0,0.0,1.0,1,African Cup of Nations,Alexandria,Egypt,True
+2019-06-27,Senegal,Algeria,0.0,1.0,-1.0,2,African Cup of Nations,Cairo,Egypt,True
+2019-06-27,Kenya,Tanzania,3.0,2.0,1.0,1,African Cup of Nations,Cairo,Egypt,True
+2019-06-28,Morocco,Ivory Coast,1.0,0.0,1.0,1,African Cup of Nations,Cairo,Egypt,True
+2019-06-28,South Africa,Namibia,1.0,0.0,1.0,1,African Cup of Nations,Cairo,Egypt,True
+2019-06-28,Tunisia,Mali,1.0,1.0,0.0,0,African Cup of Nations,Suez,Egypt,True
+2019-06-29,Mauritania,Angola,0.0,0.0,0.0,0,African Cup of Nations,Suez,Egypt,True
+2019-06-29,Cameroon,Ghana,0.0,0.0,0.0,0,African Cup of Nations,Ismailia,Egypt,True
+2019-06-29,Benin,Guinea-Bissau,0.0,0.0,0.0,0,African Cup of Nations,Ismailia,Egypt,True
+2019-06-30,Egypt,Uganda,2.0,0.0,2.0,1,African Cup of Nations,Cairo,Egypt,False
+2019-06-30,Zimbabwe,DR Congo,0.0,4.0,-4.0,2,African Cup of Nations,Cairo,Egypt,True
+2019-06-30,Burundi,Guinea,0.0,2.0,-2.0,2,African Cup of Nations,Cairo,Egypt,True
+2019-06-30,Madagascar,Nigeria,2.0,0.0,2.0,1,African Cup of Nations,Alexandria,Egypt,True
+2019-07-01,Kenya,Senegal,0.0,3.0,-3.0,2,African Cup of Nations,Cairo,Egypt,True
+2019-07-01,Tanzania,Algeria,0.0,3.0,-3.0,2,African Cup of Nations,Cairo,Egypt,True
+2019-07-01,Namibia,Ivory Coast,1.0,4.0,-3.0,2,African Cup of Nations,Cairo,Egypt,True
+2019-07-01,South Africa,Morocco,0.0,1.0,-1.0,2,African Cup of Nations,Cairo,Egypt,True
+2019-07-02,Angola,Mali,0.0,1.0,-1.0,2,African Cup of Nations,Ismailia,Egypt,True
+2019-07-02,Mauritania,Tunisia,0.0,0.0,0.0,0,African Cup of Nations,Suez,Egypt,True
+2019-07-02,Benin,Cameroon,0.0,0.0,0.0,0,African Cup of Nations,Ismailia,Egypt,True
+2019-07-02,Guinea-Bissau,Ghana,0.0,2.0,-2.0,2,African Cup of Nations,Suez,Egypt,True
+2019-07-05,Morocco,Benin,1.0,1.0,0.0,0,African Cup of Nations,Cairo,Egypt,True
+2019-07-05,Uganda,Senegal,0.0,1.0,-1.0,2,African Cup of Nations,Cairo,Egypt,True
+2019-07-06,Egypt,South Africa,0.0,1.0,-1.0,2,African Cup of Nations,Cairo,Egypt,False
+2019-07-06,Nigeria,Cameroon,3.0,2.0,1.0,1,African Cup of Nations,Alexandria,Egypt,True
+2019-07-07,Algeria,Guinea,3.0,0.0,3.0,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-07,Madagascar,DR Congo,2.0,2.0,0.0,0,African Cup of Nations,Alexandria,Egypt,True
+2019-07-08,Ghana,Tunisia,1.0,1.0,0.0,0,African Cup of Nations,Ismailia,Egypt,True
+2019-07-08,Mali,Ivory Coast,0.0,1.0,-1.0,2,African Cup of Nations,Suez,Egypt,True
+2019-07-10,Nigeria,South Africa,2.0,1.0,1.0,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-10,Senegal,Benin,1.0,0.0,1.0,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-11,Ivory Coast,Algeria,1.0,1.0,0.0,0,African Cup of Nations,Suez,Egypt,True
+2019-07-11,Madagascar,Tunisia,0.0,3.0,-3.0,2,African Cup of Nations,Cairo,Egypt,True
+2019-07-14,Algeria,Nigeria,2.0,1.0,1.0,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-14,Senegal,Tunisia,1.0,0.0,1.0,1,African Cup of Nations,Cairo,Egypt,True
+2019-07-17,Tunisia,Nigeria,0.0,1.0,-1.0,2,African Cup of Nations,Cairo,Egypt,True
+2019-07-19,Senegal,Algeria,0.0,1.0,-1.0,2,African Cup of Nations,Cairo,Egypt,True
+2022-01-09,Cameroon,Burkina Faso,2.0,1.0,1.0,1,African Cup of Nations,Yaoundé,Cameroon,False
+2022-01-09,Ethiopia,Cape Verde,0.0,1.0,-1.0,2,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-10,Senegal,Zimbabwe,1.0,0.0,1.0,1,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-10,Guinea,Malawi,1.0,0.0,1.0,1,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-10,Morocco,Ghana,1.0,0.0,1.0,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-10,Comoros,Gabon,0.0,1.0,-1.0,2,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-11,Nigeria,Egypt,1.0,0.0,1.0,1,African Cup of Nations,Garoua,Cameroon,True
+2022-01-11,Sudan,Guinea-Bissau,0.0,0.0,0.0,0,African Cup of Nations,Garoua,Cameroon,True
+2022-01-11,Algeria,Sierra Leone,0.0,0.0,0.0,0,African Cup of Nations,Douala,Cameroon,True
+2022-01-12,Equatorial Guinea,Ivory Coast,0.0,1.0,-1.0,2,African Cup of Nations,Douala,Cameroon,True
+2022-01-12,Tunisia,Mali,0.0,1.0,-1.0,2,African Cup of Nations,Limbé,Cameroon,True
+2022-01-12,Mauritania,Gambia,0.0,1.0,-1.0,2,African Cup of Nations,Limbé,Cameroon,True
+2022-01-13,Cameroon,Ethiopia,4.0,1.0,3.0,1,African Cup of Nations,Yaoundé,Cameroon,False
+2022-01-13,Cape Verde,Burkina Faso,0.0,1.0,-1.0,2,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-14,Senegal,Guinea,0.0,0.0,0.0,0,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-14,Malawi,Zimbabwe,2.0,1.0,1.0,1,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-14,Morocco,Comoros,2.0,0.0,2.0,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-14,Gabon,Ghana,1.0,1.0,0.0,0,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-15,Nigeria,Sudan,3.0,1.0,2.0,1,African Cup of Nations,Garoua,Cameroon,True
+2022-01-15,Guinea-Bissau,Egypt,0.0,1.0,-1.0,2,African Cup of Nations,Garoua,Cameroon,True
+2022-01-16,Ivory Coast,Sierra Leone,2.0,2.0,0.0,0,African Cup of Nations,Douala,Cameroon,True
+2022-01-16,Algeria,Equatorial Guinea,0.0,1.0,-1.0,2,African Cup of Nations,Douala,Cameroon,True
+2022-01-16,Gambia,Mali,1.0,1.0,0.0,0,African Cup of Nations,Limbé,Cameroon,True
+2022-01-16,Tunisia,Mauritania,4.0,0.0,4.0,1,African Cup of Nations,Limbé,Cameroon,True
+2022-01-17,Burkina Faso,Ethiopia,1.0,1.0,0.0,0,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-17,Cameroon,Cape Verde,1.0,1.0,0.0,0,African Cup of Nations,Yaoundé,Cameroon,False
+2022-01-18,Malawi,Senegal,0.0,0.0,0.0,0,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-18,Zimbabwe,Guinea,2.0,1.0,1.0,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-18,Gabon,Morocco,2.0,2.0,0.0,0,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-18,Ghana,Comoros,2.0,3.0,-1.0,2,African Cup of Nations,Garoua,Cameroon,True
+2022-01-19,Egypt,Sudan,1.0,0.0,1.0,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-19,Guinea-Bissau,Nigeria,0.0,2.0,-2.0,2,African Cup of Nations,Garoua,Cameroon,True
+2022-01-20,Ivory Coast,Algeria,3.0,1.0,2.0,1,African Cup of Nations,Douala,Cameroon,True
+2022-01-20,Sierra Leone,Equatorial Guinea,0.0,1.0,-1.0,2,African Cup of Nations,Limbé,Cameroon,True
+2022-01-20,Gambia,Tunisia,1.0,0.0,1.0,1,African Cup of Nations,Limbé,Cameroon,True
+2022-01-20,Mali,Mauritania,2.0,0.0,2.0,1,African Cup of Nations,Douala,Cameroon,True
+2022-01-23,Burkina Faso,Gabon,1.0,1.0,0.0,0,African Cup of Nations,Limbé,Cameroon,True
+2022-01-23,Nigeria,Tunisia,0.0,1.0,-1.0,2,African Cup of Nations,Garoua,Cameroon,True
+2022-01-24,Cameroon,Comoros,2.0,1.0,1.0,1,African Cup of Nations,Yaoundé,Cameroon,False
+2022-01-24,Guinea,Gambia,0.0,1.0,-1.0,2,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-25,Morocco,Malawi,2.0,1.0,1.0,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-25,Senegal,Cape Verde,2.0,0.0,2.0,1,African Cup of Nations,Bafoussam,Cameroon,True
+2022-01-26,Ivory Coast,Egypt,0.0,0.0,0.0,0,African Cup of Nations,Douala,Cameroon,True
+2022-01-26,Mali,Equatorial Guinea,0.0,0.0,0.0,0,African Cup of Nations,Limbé,Cameroon,True
+2022-01-29,Burkina Faso,Tunisia,1.0,0.0,1.0,1,African Cup of Nations,Garoua,Cameroon,True
+2022-01-29,Cameroon,Gambia,2.0,0.0,2.0,1,African Cup of Nations,Douala,Cameroon,False
+2022-01-30,Egypt,Morocco,2.0,1.0,1.0,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-01-30,Senegal,Equatorial Guinea,3.0,1.0,2.0,1,African Cup of Nations,Yaoundé,Cameroon,True
+2022-02-02,Burkina Faso,Senegal,1.0,3.0,-2.0,2,African Cup of Nations,Yaoundé,Cameroon,True
+2022-02-03,Cameroon,Egypt,0.0,0.0,0.0,0,African Cup of Nations,Yaoundé,Cameroon,False
+2022-02-05,Cameroon,Burkina Faso,3.0,3.0,0.0,0,African Cup of Nations,Yaoundé,Cameroon,False
+2022-02-06,Senegal,Egypt,0.0,0.0,0.0,0,African Cup of Nations,Yaoundé,Cameroon,True
+2024-01-13,Ivory Coast,Guinea-Bissau,2.0,0.0,2.0,1,African Cup of Nations,Ebimpé,Ivory Coast,False
+2024-01-14,Nigeria,Equatorial Guinea,1.0,1.0,0.0,0,African Cup of Nations,Ebimpé,Ivory Coast,True
+2024-01-14,Egypt,Mozambique,2.0,2.0,0.0,0,African Cup of Nations,Abidjan,Ivory Coast,True
+2024-01-14,Ghana,Cape Verde,1.0,2.0,-1.0,2,African Cup of Nations,Abidjan,Ivory Coast,True
+2024-01-15,Senegal,Gambia,3.0,0.0,3.0,1,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-01-15,Cameroon,Guinea,1.0,1.0,0.0,0,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-01-15,Algeria,Angola,1.0,1.0,0.0,0,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-01-16,Burkina Faso,Mauritania,1.0,0.0,1.0,1,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-01-16,Tunisia,Namibia,0.0,1.0,-1.0,2,African Cup of Nations,Korhogo,Ivory Coast,True
+2024-01-16,Mali,South Africa,2.0,0.0,2.0,1,African Cup of Nations,Korhogo,Ivory Coast,True
+2024-01-17,Morocco,Tanzania,3.0,0.0,3.0,1,African Cup of Nations,San-Pédro,Ivory Coast,True
+2024-01-17,DR Congo,Zambia,1.0,1.0,0.0,0,African Cup of Nations,San-Pédro,Ivory Coast,True
+2024-01-18,Equatorial Guinea,Guinea-Bissau,4.0,2.0,2.0,1,African Cup of Nations,Ebimpé,Ivory Coast,True
+2024-01-18,Ivory Coast,Nigeria,0.0,1.0,-1.0,2,African Cup of Nations,Ebimpé,Ivory Coast,False
+2024-01-18,Egypt,Ghana,2.0,2.0,0.0,0,African Cup of Nations,Abidjan,Ivory Coast,True
+2024-01-19,Cape Verde,Mozambique,3.0,0.0,3.0,1,African Cup of Nations,Abidjan,Ivory Coast,True
+2024-01-19,Senegal,Cameroon,3.0,1.0,2.0,1,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-01-19,Guinea,Gambia,1.0,0.0,1.0,1,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-01-20,Algeria,Burkina Faso,2.0,2.0,0.0,0,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-01-20,Mauritania,Angola,2.0,3.0,-1.0,2,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-01-20,Tunisia,Mali,1.0,1.0,0.0,0,African Cup of Nations,Korhogo,Ivory Coast,True
+2024-01-21,South Africa,Namibia,4.0,0.0,4.0,1,African Cup of Nations,Korhogo,Ivory Coast,True
+2024-01-21,Morocco,DR Congo,1.0,1.0,0.0,0,African Cup of Nations,San-Pédro,Ivory Coast,True
+2024-01-21,Zambia,Tanzania,1.0,1.0,0.0,0,African Cup of Nations,San-Pédro,Ivory Coast,True
+2024-01-22,Guinea-Bissau,Nigeria,0.0,1.0,-1.0,2,African Cup of Nations,Abidjan,Ivory Coast,True
+2024-01-22,Ivory Coast,Equatorial Guinea,0.0,4.0,-4.0,2,African Cup of Nations,Ebimpé,Ivory Coast,False
+2024-01-22,Cape Verde,Egypt,2.0,2.0,0.0,0,African Cup of Nations,Abidjan,Ivory Coast,True
+2024-01-22,Mozambique,Ghana,2.0,2.0,0.0,0,African Cup of Nations,Ebimpé,Ivory Coast,True
+2024-01-23,Gambia,Cameroon,2.0,3.0,-1.0,2,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-01-23,Guinea,Senegal,0.0,2.0,-2.0,2,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-01-23,Angola,Burkina Faso,2.0,0.0,2.0,1,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-01-23,Mauritania,Algeria,1.0,0.0,1.0,1,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-01-24,Namibia,Mali,0.0,0.0,0.0,0,African Cup of Nations,San-Pédro,Ivory Coast,True
+2024-01-24,South Africa,Tunisia,0.0,0.0,0.0,0,African Cup of Nations,Korhogo,Ivory Coast,True
+2024-01-24,Tanzania,DR Congo,0.0,0.0,0.0,0,African Cup of Nations,Korhogo,Ivory Coast,True
+2024-01-24,Zambia,Morocco,0.0,1.0,-1.0,2,African Cup of Nations,San-Pédro,Ivory Coast,True
+2024-01-27,Angola,Namibia,3.0,0.0,3.0,1,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-01-27,Nigeria,Cameroon,2.0,0.0,2.0,1,African Cup of Nations,Abidjan,Ivory Coast,True
+2024-01-28,Egypt,DR Congo,1.0,1.0,0.0,0,African Cup of Nations,San-Pédro,Ivory Coast,True
+2024-01-28,Equatorial Guinea,Guinea,0.0,1.0,-1.0,2,African Cup of Nations,Ebimpé,Ivory Coast,True
+2024-01-29,Cape Verde,Mauritania,1.0,0.0,1.0,1,African Cup of Nations,Abidjan,Ivory Coast,True
+2024-01-29,Ivory Coast,Senegal,1.0,1.0,0.0,0,African Cup of Nations,Yamoussoukro,Ivory Coast,False
+2024-01-30,Mali,Burkina Faso,2.0,1.0,1.0,1,African Cup of Nations,Korhogo,Ivory Coast,True
+2024-01-30,Morocco,South Africa,0.0,2.0,-2.0,2,African Cup of Nations,San-Pédro,Ivory Coast,True
+2024-02-02,DR Congo,Guinea,3.0,1.0,2.0,1,African Cup of Nations,Ebimpé,Ivory Coast,True
+2024-02-02,Nigeria,Angola,1.0,0.0,1.0,1,African Cup of Nations,Abidjan,Ivory Coast,True
+2024-02-03,Cape Verde,South Africa,0.0,0.0,0.0,0,African Cup of Nations,Yamoussoukro,Ivory Coast,True
+2024-02-03,Ivory Coast,Mali,2.0,1.0,1.0,1,African Cup of Nations,Bouaké,Ivory Coast,False
+2024-02-07,Ivory Coast,DR Congo,1.0,0.0,1.0,1,African Cup of Nations,Ebimpé,Ivory Coast,False
+2024-02-07,Nigeria,South Africa,1.0,1.0,0.0,0,African Cup of Nations,Bouaké,Ivory Coast,True
+2024-02-10,South Africa,DR Congo,0.0,0.0,0.0,0,African Cup of Nations,Abidjan,Ivory Coast,True
+2024-02-11,Ivory Coast,Nigeria,2.0,1.0,1.0,1,African Cup of Nations,Ebimpé,Ivory Coast,False
